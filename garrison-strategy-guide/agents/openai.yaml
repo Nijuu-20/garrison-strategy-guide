@@ -1,0 +1,4 @@
+interface:
+  display_name: "卫戍协议攻略库"
+  short_description: "结合禁用、来牌与当前回合推荐卫戍协议路线，并保留攻略作者和变体差异"
+  default_prompt: "请用 $garrison-strategy-guide 根据我的当前局面给出下一步建议，并标注对应攻略作者。"
