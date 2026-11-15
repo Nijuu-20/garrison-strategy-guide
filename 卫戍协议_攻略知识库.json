@@ -1,12 +1,12 @@
 {
-  "schema_version": "1.0",
-  "version": "2026-11-13",
+  "schema_version": "1.1",
+  "version": "2026-11-15",
   "game_version": "卫戍协议·规程·序列Ⅰ",
   "input_url_count": 21,
-  "unique_source_count": 20,
-  "video_count": 19,
+  "unique_source_count": 74,
+  "video_count": 73,
   "article_image_count": 11,
-  "summary_method": "作者元数据与简介、19个视频音轨转写、代表性关键帧、11张图文原图；疑点二次转写、字幕与现有规则库交叉核对。并非逐帧连续观看，也未做游戏复现。",
+  "summary_method": "原19个视频与11张图文的既有整理，加54个同版本视频的作者元数据、解说音轨转写/画面文字、关键帧人工核对；静音或后期展示不补造开局。不是逐帧连续观看，也未进行游戏复现或胜率测试。",
   "sources": [
     {
       "id": "S01",
@@ -394,6 +394,1554 @@
       "route_ids": [
         "R11"
       ]
+    },
+    {
+      "id": "S21",
+      "url": "https://www.bilibili.com/video/BV1FoWj6kEBs/",
+      "title": "【卫戍协议∶规程】复奏一本流轮椅打法一图流！灵活变阵上限极高！极速听牌快速叠层！",
+      "authors": [
+        {
+          "name": "白樱iridescent",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 292,
+      "published_on": "2026-11-11T09:55:49+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "复奏一本流",
+        "locator": "00:00–04:52；一图流关键帧",
+        "notes": "1–5回合留一本积对子；以精奥聚合莱塔作示例，6–7回合凭对子量升三碰黑键/霍尔海雅，8–10回合升四碰奶羊；跟来牌转阵，非固定强行升本。"
+      },
+      "route_ids": [
+        "R12"
+      ]
+    },
+    {
+      "id": "S22",
+      "url": "https://www.bilibili.com/video/BV1FHWX6GEh2/",
+      "title": "【卫戍协议∶规程】坚守维多利亚公式化运营一图流！boss战播报的神！",
+      "authors": [
+        {
+          "name": "白樱iridescent",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 358,
+      "published_on": "2026-11-12T16:16:24+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1,
+        2
+      ],
+      "evidence": {
+        "topic": "坚守维多利亚",
+        "locator": "P1 00:00–04:50；P2 00:00–01:08技能补充",
+        "notes": "杰西卡与复奏是不同运营节奏；三维三坚守中期，涤火杰西卡配塞雷娅，后期六维；凯瑟琳产锤、白铁升级普通装备。 P2涤杰S3、维娜S3，本家烛煌偏S3；酒神S2/S3视需求，可能与烛煌竞争触发。"
+      },
+      "route_ids": [
+        "R13"
+      ],
+      "module_ids": [
+        "M04"
+      ]
+    },
+    {
+      "id": "S23",
+      "url": "https://www.bilibili.com/video/BV1WGWr6UEhb/",
+      "title": "【卫戍协议∶规程】三本伊比利亚公式化运营一图流！道中强兜底阵容！",
+      "authors": [
+        {
+          "name": "白樱iridescent",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 241,
+      "published_on": "2026-11-14T09:31:56+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1,
+        2
+      ],
+      "evidence": {
+        "topic": "三本伊比利亚",
+        "locator": "P1 00:00–03:05；P2 00:00–00:56技能补充",
+        "notes": "三本精锐旅骨和海沫，奖励优先流明，前期蓝毒输出；温蒂/海沫供旅骨售价叠层；不强行迅捷或精准转。 P2旅骨S2、海沫/蓝毒S1、棘刺S2过渡、引星棘刺S2；与其他作者棘刺S3终端区分。"
+      },
+      "route_ids": [
+        "R14"
+      ],
+      "module_ids": [
+        "M04"
+      ]
+    },
+    {
+      "id": "S24",
+      "url": "https://www.bilibili.com/video/BV1cTWW6FEAS/",
+      "title": "【卫戍协议：规程】最神阵容推荐-谢拉格全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 777,
+      "published_on": "2026-11-09T02:56:44+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "谢拉格",
+        "locator": "03:09–04:35叠层；04:35–06:52升本分支；07:55–12:57六谢取舍",
+        "notes": "三本找初雪，四本补灵知与支援；队伍稳才上五找圣聆初雪/凛御银灰。六谢召唤物可能拦怪阻碍叠层，必要时保持三谢至后期；非一律禁用六谢。"
+      },
+      "route_ids": [
+        "R15"
+      ]
+    },
+    {
+      "id": "S25",
+      "url": "https://www.bilibili.com/video/BV11CWx6GELy/",
+      "title": "【卫戍协议：规程】神中神阵容-萨尔贡全攻略教程（太好吃了）",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 589,
+      "published_on": "2026-11-09T14:12:04+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "萨尔贡",
+        "locator": "01:35–03:52叠层；04:43–08:40运营；08:40–09:49终端",
+        "notes": "鸿雪/佩佩是中后期主要叠层目标；卡四碰五或直接五本，取决于队伍生存；异客浓茶和转职外援可补回转与输出；作者层数必过说法不采纳。"
+      },
+      "route_ids": [
+        "R16"
+      ]
+    },
+    {
+      "id": "S26",
+      "url": "https://www.bilibili.com/video/BV1FiWb61EHu/",
+      "title": "【卫戍协议：规程】巨拉阵容-叙拉古全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 609,
+      "published_on": "2026-11-10T00:19:52+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "叙拉古速本",
+        "locator": "02:51–03:51叠层；03:51–08:33运营；08:33–10:09风险",
+        "notes": "伺夜先撑场，斥罪补前排，精准/坚守支援，阵容质量足再升五六找荒芜拉普兰德。前中期不为六叙牺牲生存；重甲、折射与终端不来是风险。"
+      },
+      "route_ids": [
+        "R17"
+      ]
+    },
+    {
+      "id": "S27",
+      "url": "https://www.bilibili.com/video/BV19ZWG6sEv9/",
+      "title": "【卫戍协议：规程】迅捷阵容攻略！二本找人！四本快速通关",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 491,
+      "published_on": "2026-11-11T01:41:36+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "迅捷混编",
+        "locator": "01:40–03:24叠层装备；03:24–08:10运营",
+        "notes": "陨星起步，三本青枳和生存，四本补主阵容；后期妮芙及输出终端。迅捷本身不是完整前排治疗方案，按卡西米尔/乌萨斯等分支运营。"
+      },
+      "route_ids": [
+        "R18"
+      ]
+    },
+    {
+      "id": "S28",
+      "url": "https://www.bilibili.com/video/BV1eZWG6sEZy/",
+      "title": "【卫戍协议：规程】版本轮椅阵容-不屈全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 486,
+      "published_on": "2026-11-11T01:40:12+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "不屈混编",
+        "locator": "02:15–04:47砾；04:47–08:05后续",
+        "notes": "二本找砾配摆渡人等开不屈；卡西米尔分支接瑕光，队伍稳则五本隐德来希，否则先提质量。忽略01:43–01:57异常转写。"
+      },
+      "route_ids": [
+        "R19"
+      ]
+    },
+    {
+      "id": "S29",
+      "url": "https://www.bilibili.com/video/BV17EWT62EXq/",
+      "title": "【卫戍协议：规程】新奇绝活阵容-聚合全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 387,
+      "published_on": "2026-11-10T14:03:20+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "聚合支援模块",
+        "locator": "02:51–04:26叠层；04:26–06:27主阵容配合",
+        "notes": "聚合是生存组件，不能单独当输出队；流明/纯烬艾雅法拉等结合主阵容，升本遵循主轴，不为遥强行赌六。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M01"
+      ]
+    },
+    {
+      "id": "S30",
+      "url": "https://www.bilibili.com/video/BV1kzWg6fEid/",
+      "title": "【卫戍协议：规程】通关必学阵容-奇迹伊比利亚",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 568,
+      "published_on": "2026-11-10T23:48:10+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "奇迹伊比利亚",
+        "locator": "01:49–03:57叠层；03:57–06:39三至五本；06:39–09:28后期",
+        "notes": "旅骨海沫与云迹起步，安洁莉娜补奇迹，棘刺输出。卡四稳血与上五找核心分开；概率免费刷新不是无限刷新保证。"
+      },
+      "route_ids": [
+        "R20"
+      ]
+    },
+    {
+      "id": "S31",
+      "url": "https://www.bilibili.com/video/BV1yBW26KEgb/",
+      "title": "【卫戍协议：规程】必玩轮椅阵容-奥术伊比利亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 672,
+      "published_on": "2026-11-11T19:47:55+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "奥术伊比利亚",
+        "locator": "04:23–06:15开局；06:15–08:36中期；08:36–11:12终端",
+        "notes": "三伊两奥起步，三本旅骨海沫，四本霍尔海雅，五本棘刺/溯光星源；后期奥术转职外援。忽略03:42异常转写；六伊三奥须实际人数足够。"
+      },
+      "route_ids": [
+        "R21"
+      ]
+    },
+    {
+      "id": "S32",
+      "url": "https://www.bilibili.com/video/BV1iGWW6REU8/",
+      "title": "【卫戍协议：规程】最能倒转阵容-远见全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 606,
+      "published_on": "2026-11-09T02:40:11+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "远见经济主轴",
+        "locator": "01:54–02:45叠层；04:39–08:38运营",
+        "notes": "渡桥空弦互叠、寒檀中期、纯烬艾雅法拉与黍衔接、逻各斯终端；前排薄要补坚守或协防。08:38–09:06重复幻觉不采用。"
+      },
+      "route_ids": [
+        "R22"
+      ]
+    },
+    {
+      "id": "S33",
+      "url": "https://www.bilibili.com/video/BV1rzWg6fEh5/",
+      "title": "【卫戍协议】独行阵容选谁最好？建议先看阵容单论质量，考虑水灯心",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 380,
+      "published_on": "2026-11-10T23:51:17+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "独行开局选择",
+        "locator": "00:00–06:20",
+        "notes": "艾丝黛尔偏前排，水灯心需前排及灵巧/维配合，地灵接莱塔尼亚；先看禁选与来牌，不设固定跨局强度排名。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M02"
+      ]
+    },
+    {
+      "id": "S34",
+      "url": "https://www.bilibili.com/video/BV1qnWT6LEaC/",
+      "title": "【卫戍协议：规程】神中神阵容-精准全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 528,
+      "published_on": "2026-11-10T14:02:05+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "精准主轴",
+        "locator": "01:42–03:07叠层；03:07–06:21运营；06:21–08:44装备终端",
+        "notes": "三本空弦/伺夜与外援前排奶，四本补质量碰鸿雪，后期迷迭香/蕾缪安；帕拉斯可辅助叠层。"
+      },
+      "route_ids": [
+        "R23"
+      ]
+    },
+    {
+      "id": "S35",
+      "url": "https://www.bilibili.com/video/BV1k1WW6AEx7/",
+      "title": "卫戍协议·规程】可胡可稳的伊比利亚思路分享！",
+      "authors": [
+        {
+          "name": "白绮Infinity",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 376,
+      "published_on": "2026-11-09T11:23:08+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "伊比利亚精奥与迅捷切换",
+        "locator": "00:30–04:54单卡；04:54–06:16运营装备；简介",
+        "notes": "进可迅捷，退可精奥；海沫旅骨售价叠层；霍尔海雅双户口关键；蓝毒打单。引星棘刺来得早且迅捷层数足才转，不和S40的留五精奥硬合并。"
+      },
+      "route_ids": [
+        "R24"
+      ]
+    },
+    {
+      "id": "S36",
+      "url": "https://www.bilibili.com/video/BV1hBWX6hEub/",
+      "title": "不吃精准奥术的新轮椅坚守维多利亚",
+      "authors": [
+        {
+          "name": "阿粥不吃苦",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 55,
+      "published_on": "2026-11-12T16:32:59+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "不吃精奥的坚守维",
+        "locator": "00:00–00:55",
+        "notes": "四本涤火杰西卡，碰五/升五塞雷娅，装备补满叠层；变形者球加锤开维；烛煌终端，提醒酒神抢爆条。999层是展示值。"
+      },
+      "route_ids": [
+        "R13"
+      ]
+    },
+    {
+      "id": "S37",
+      "url": "https://www.bilibili.com/video/BV1JEWT62Emb/",
+      "title": "新时代dot队？卫戍协议叙拉古盟约怎么玩（入门篇）",
+      "authors": [
+        {
+          "name": "夜の第漆夜",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 130,
+      "published_on": "2026-11-10T14:01:28+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "叙拉古低本精准",
+        "locator": "00:02–01:39；作者简介",
+        "notes": "贾维适合入门，裁度高上限；二本碰伺夜，三本伊桑/吉星/忍冬，三叙二精准，约10回合上五；异格安洁莉娜需自选入池，六叙三精准后再找异拉。"
+      },
+      "route_ids": [
+        "R17"
+      ]
+    },
+    {
+      "id": "S38",
+      "url": "https://www.bilibili.com/video/BV1ZBW46eEdW/",
+      "title": "【卫戍协议∶规程】干员太多不知道抓谁？全盟约通用叠层卡！道中过度通通用经济卡！一图流保姆级解说教学！",
+      "authors": [
+        {
+          "name": "白樱iridescent",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 456,
+      "published_on": "2026-11-09T12:48:25+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "通用叠层经济",
+        "locator": "00:14–02:34叠层图；02:34–06:35经济图；06:35–07:36转职",
+        "notes": "区分休整、战斗与获得触发；渡桥空弦、塞雷娅与铃兰、华法琳/阿米娅/Mon3tr；温蒂、波登可、星极、伊桑、吉星等按阶段使用。图中进阶数值不是普通数值。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M03",
+        "M06"
+      ]
+    },
+    {
+      "id": "S39",
+      "url": "https://www.bilibili.com/video/BV1m1W864ErS/",
+      "title": "【卫戍协议：规程】超级区阵容-维多利亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 579,
+      "published_on": "2026-11-09T20:50:54+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "常规维多利亚",
+        "locator": "01:59–02:53叠层；04:35–07:20运营；07:20–09:39终端",
+        "notes": "凯瑟琳、Miss.Christine与涤火杰西卡支撑；速四与卡三稳场分支。作者同时上酒神烛煌与S36意见冲突，须保留损伤竞争条件，不合并为双核心必选。"
+      },
+      "route_ids": [
+        "R13"
+      ]
+    },
+    {
+      "id": "S40",
+      "url": "https://www.bilibili.com/video/BV1xdWV61Efg/",
+      "title": "【卫戍协议】大变伊比利亚实战教学，基本能稳定打过终极隐秘核心BOSS，而且拿下20播报",
+      "authors": [
+        {
+          "name": "菱歌233",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 3308,
+      "published_on": "2026-11-11T08:56:40+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "变形者精奥聚合伊比利亚",
+        "locator": "00:00–03:22解说；01:10/02:50图解；20:00实战帧",
+        "notes": "约第五轮三本，旅骨海沫，先精准转海沫；碰海雅/流明/温蒂/华法琳；中期四本精锐，第二球伊转海雅，后期精准转棘刺并回收海沫球奥转蓝毒。作者不推荐为引星棘刺改变此轴。 已核对图解与中期实战，非连续逐帧观看，不认证连胜说法。"
+      },
+      "route_ids": [
+        "R24"
+      ]
+    },
+    {
+      "id": "S41",
+      "url": "https://www.bilibili.com/video/BV19rWi6WEAJ/",
+      "title": "【卫戍协议：规程】双核心大区阵容-谢拉格大炎全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "探索路线；素材未通关",
+      "duration_seconds": 664,
+      "published_on": "2026-11-13T18:44:49+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "谢拉格炎双核心探索",
+        "locator": "00:00–00:28未通关声明；03:55–11:04运营与条件",
+        "notes": "变形者起步，三本耶拉供不融冰，四本灵知/仇白，五本黍老鲤；六谢六炎需要额外转职/调和且席位极紧。作者承认素材未通关，标为探索，不进入默认推荐。"
+      },
+      "route_ids": [
+        "R25"
+      ]
+    },
+    {
+      "id": "S42",
+      "url": "https://www.bilibili.com/video/BV1DpWy6BEGE/",
+      "title": "【卫戍协议：规程】离谱绝活阵容推荐-聚合伊比利亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 565,
+      "published_on": "2026-11-11T17:59:56+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "聚合伊比利亚",
+        "locator": "00:00–09:25",
+        "notes": "旅骨海沫起步，四本流明温蒂，稳定后五本棘刺/纯烬艾雅法拉；偏联机生存兜底，不保证单独处理Boss。"
+      },
+      "route_ids": [
+        "R26"
+      ]
+    },
+    {
+      "id": "S43",
+      "url": "https://www.bilibili.com/video/BV1gEW96PEyR/",
+      "title": "【卫戍协议】还不会摇轮椅？不吃ban位的小阵营大丑来了！",
+      "authors": [
+        {
+          "name": "A阿戈尔路灯管理",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "教学与失败复盘",
+      "duration_seconds": 736,
+      "published_on": "2026-11-12T13:48:00+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "小盟约大丑",
+        "locator": "00:28–06:28教学；06:28–12:14实战",
+        "notes": "二本云迹格雷伊电话与经济装；三本奖励空弦，九轮左右升四后补投资人，精准/奥术转大丑；结尾隐藏Boss失败，必须处理束缚和支援站位，不照抄必胜宣称。"
+      },
+      "route_ids": [
+        "R03",
+        "R06"
+      ],
+      "module_ids": [
+        "M05"
+      ]
+    },
+    {
+      "id": "S44",
+      "url": "https://www.bilibili.com/video/BV1o8WR6CErt/",
+      "title": "最高难度卫戍协议最轮椅，最不吃运气的流派—不屈灵巧大丑，森蚺策略攻略教学",
+      "authors": [
+        {
+          "name": "空气在说话",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "教学与失败复盘",
+      "duration_seconds": 579,
+      "published_on": "2026-11-12T19:21:00+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "不屈灵巧大丑",
+        "locator": "00:00–05:33运营；06:00–08:52站位失误与展示",
+        "notes": "森蚺策略，二本砾云迹格雷伊电话，200不屈是作者目标不是必复活；三本空弦风丸，后期装备；人形Boss位置判断失误导致失败，复用时必须说明。"
+      },
+      "route_ids": [
+        "R27"
+      ],
+      "module_ids": [
+        "M05"
+      ]
+    },
+    {
+      "id": "S45",
+      "url": "https://www.bilibili.com/video/BV15QW966EJ3/",
+      "title": "【卫戍协议∶规程】谢拉格一图流！上限不输大成罗哥",
+      "authors": [
+        {
+          "name": "言情小说女主",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 569,
+      "published_on": "2026-11-12T13:10:20+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "谢拉格灵巧/迅捷分支",
+        "locator": "00:31–02:50前期；02:50–06:55装备与终局；06:55–09:29云迹被禁替代",
+        "notes": "优先战力开局，云迹灵巧奇迹，三本初雪碰灵知华法琳夜莺；圣聆初雪主输出，凛御银灰S2。少转职不强开六谢；云迹禁则冻河灵知迅捷控制，伤害与生存另补。"
+      },
+      "route_ids": [
+        "R15"
+      ]
+    },
+    {
+      "id": "S46",
+      "url": "https://www.bilibili.com/video/BV1BpW86GEhi/",
+      "title": "【卫戍协议】萨尔贡思路分享（附省流一图）",
+      "authors": [
+        {
+          "name": "霜月无极",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 1517,
+      "published_on": "2026-11-09T21:53:39+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "佩佩策略萨尔贡",
+        "locator": "02:25–06:45副盟约；06:45–15:29运营；15:29–25:17核心与终端",
+        "notes": "佩佩的检索留到三本；第五轮找卡涅利安，四本异客和霍尔海雅，五本鸿雪/佩佩；精奥优先，缺精奥可灵巧。不要把主盟约层数当作无限攻速。"
+      },
+      "route_ids": [
+        "R16"
+      ]
+    },
+    {
+      "id": "S47",
+      "url": "https://www.bilibili.com/video/BV1BPWH6pEow/",
+      "title": "萨尔贡神了，卫戍协议轮椅流派，精准灵巧随便叠萨尔贡不是区",
+      "authors": [
+        {
+          "name": "眼镜是本体oao",
+          "role": "视频发布账号；不据此认定首创"
+        }
+      ],
+      "kind": "后期实战例证",
+      "duration_seconds": 175,
+      "published_on": "2026-11-08T23:31:54+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_visual_text；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "精准灵巧萨尔贡实战",
+        "locator": "00:03–02:30关键帧；02:04胜利画面",
+        "notes": "只展示后期组合与Boss，不据音乐转写生成前期运营。"
+      },
+      "route_ids": [
+        "R16"
+      ]
+    },
+    {
+      "id": "S48",
+      "url": "https://www.bilibili.com/video/BV12ZWP6pE7m/",
+      "title": "【卫戍协议:规程】乌萨斯 独立模拟N20 常规玩法 实战运营思路，简单好学！",
+      "authors": [
+        {
+          "name": "苏白Seb",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "教学与失败复盘",
+      "duration_seconds": 701,
+      "published_on": "2026-11-10T08:00:00+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "杰西卡乌萨斯单人实战",
+        "locator": "00:00–04:53前中期；06:30–10:03普通Boss；10:05–11:34隐藏Boss失败复盘",
+        "notes": "青枳前方配维伊，八回合冻河，塔露拉来得晚；普通Boss通过但隐藏Boss失败。夜莺补生存与冻河朝向是作者复盘，不宣称N20全通。"
+      },
+      "route_ids": [
+        "R04"
+      ],
+      "module_ids": [
+        "M05"
+      ]
+    },
+    {
+      "id": "S49",
+      "url": "https://www.bilibili.com/video/BV1HpWR6JE7g/",
+      "title": "【卫戍协议∶规程】卡西米尔公式化运营一图流 道中结局全程强 突袭50直接启动",
+      "authors": [
+        {
+          "name": "澈澈Fault",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 541,
+      "published_on": "2026-11-12T19:40:23+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "卡西米尔不屈突袭",
+        "locator": "00:35–03:45前中期；03:45–07:55后期；07:55–09:01装备",
+        "notes": "野鬃砾瑕光起步，赫德雷突袭，前中期三卡不强六卡；后期耀骑士拉整备区、史尔特尔/隐德来希三不屈。叠满不屈与再部署触发有取舍。"
+      },
+      "route_ids": [
+        "R02"
+      ],
+      "module_ids": [
+        "M04"
+      ]
+    },
+    {
+      "id": "S50",
+      "url": "https://www.bilibili.com/video/BV1SzWn6zEZq/",
+      "title": "卫戍协议新增轮椅：聚合莱塔尼亚",
+      "authors": [
+        {
+          "name": "襄阳万俟名",
+          "role": "视频发布账号；不据此认定首创"
+        }
+      ],
+      "kind": "后期实战例证",
+      "duration_seconds": 208,
+      "published_on": "2026-11-09T00:43:24+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_visual_text；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "聚合莱塔终局",
+        "locator": "00:03–02:58关键帧",
+        "notes": "后期Boss例证，画面同时存在奥术；不证明只靠聚合或完整运营。"
+      },
+      "route_ids": [
+        "R28"
+      ]
+    },
+    {
+      "id": "S51",
+      "url": "https://www.bilibili.com/video/BV12hWg6NE8i/",
+      "title": "连续兜底13回合还拿了50%播报？！卫戍协议最爽最轮椅阵容之一【精奥聚合莱塔尼亚】",
+      "authors": [
+        {
+          "name": "一只傲娇兔",
+          "role": "视频发布账号；不据此认定首创"
+        }
+      ],
+      "kind": "后期实战例证",
+      "duration_seconds": 150,
+      "published_on": "2026-11-10T23:23:41+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "精奥聚合莱塔终局",
+        "locator": "00:03–02:09关键帧及简介",
+        "notes": "变形者、海雅莱转与精奥聚合；简介称13回合兜底，视频未展示此前全部运营。"
+      },
+      "route_ids": [
+        "R28"
+      ]
+    },
+    {
+      "id": "S52",
+      "url": "https://www.bilibili.com/video/BV1suWu6hEgm/",
+      "title": "来试试卫戍协议最轮椅的复奏策略吧",
+      "authors": [
+        {
+          "name": "泰拉史记员",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 52,
+      "published_on": "2026-11-10T19:08:40+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "复奏奇数回合升本",
+        "locator": "00:00–00:52音轨与图",
+        "notes": "3/5/7/9回合的快升本示例，必须与S21一本攒对子分开；首次晋升奖励有每回合限制。"
+      },
+      "route_ids": [
+        "R12"
+      ]
+    },
+    {
+      "id": "S53",
+      "url": "https://www.bilibili.com/video/BV14eWW66EfP/",
+      "title": "[卫戍协议:规程] 轮椅级别的分队!前期爽碰对子叠精准奥数爽到爆炸!",
+      "authors": [
+        {
+          "name": "七濑逍遥",
+          "role": "视频发布账号；不据此认定首创"
+        }
+      ],
+      "kind": "后期实战例证",
+      "duration_seconds": 307,
+      "published_on": "2026-11-09T11:03:26+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "精奥对子中后期",
+        "locator": "00:03–04:23关键帧；00:00–05:07音轨",
+        "notes": "从第10回合开始，不能反推前九回合；观察精奥、晋升与转型。"
+      },
+      "route_ids": [
+        "R12"
+      ]
+    },
+    {
+      "id": "S54",
+      "url": "https://www.bilibili.com/video/BV1L8W36REfm/",
+      "title": "【卫戍协议：规程】必玩阵容-奥术全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 682,
+      "published_on": "2026-11-10T21:49:31+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "奥术主轴",
+        "locator": "00:00–11:22音轨；关键帧",
+        "notes": "低阶奥术配前排奶，四本海雅，五阶换核；不采用作者不确定技能编号和遇敌概率。"
+      },
+      "route_ids": [
+        "R35"
+      ]
+    },
+    {
+      "id": "S55",
+      "url": "https://www.bilibili.com/video/BV1iXWG6ZELS/",
+      "title": "【卫戍协议：规程】灵巧阵容攻略！轻松上手不烧心",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 423,
+      "published_on": "2026-11-11T01:37:31+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "灵巧主轴",
+        "locator": "00:00–07:03音轨；关键帧",
+        "notes": "二本云迹格雷伊，四本华法琳，五阶佩佩等；叠层条件与战力并重。"
+      },
+      "route_ids": [
+        "R34"
+      ]
+    },
+    {
+      "id": "S56",
+      "url": "https://www.bilibili.com/video/BV1pjWu6dEkJ/",
+      "title": "【卫戍协议：规程】区中区阵容-突袭全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 660,
+      "published_on": "2026-11-10T17:40:03+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "突袭主轴",
+        "locator": "00:00–11:00音轨；关键帧",
+        "notes": "三本瑕光，四本赫德雷，五六阶终端；需要对空和费用，不能以口述ban位代替本局卡池。"
+      },
+      "route_ids": [
+        "R29"
+      ]
+    },
+    {
+      "id": "S57",
+      "url": "https://www.bilibili.com/video/BV1iiWi6oExo/",
+      "title": "【卫戍协议：规程】区中神阵容-坚守全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 669,
+      "published_on": "2026-11-13T18:58:26+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "坚守主轴",
+        "locator": "00:00–11:09音轨；关键帧",
+        "notes": "三本蛇屠箱/青枳/罗比菈塔，四本依来牌补温蒂/涤杰，五本塞雷娅；补输出与对空。"
+      },
+      "route_ids": [
+        "R36"
+      ]
+    },
+    {
+      "id": "S58",
+      "url": "https://www.bilibili.com/video/BV1w8Wb6UE2A/",
+      "title": "【卫戍协议：规程】超强阵容-远见马西米尔全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 425,
+      "published_on": "2026-11-10T00:39:32+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "远见卡西米尔",
+        "locator": "00:00–07:05音轨；关键帧",
+        "notes": "三本历阵锐枪芬空弦，四本玛恩纳远牙寒檀；远见收入用于质量，顺局速六不可固定化。"
+      },
+      "route_ids": [
+        "R30"
+      ]
+    },
+    {
+      "id": "S59",
+      "url": "https://www.bilibili.com/video/BV1E5WN6rEpR/",
+      "title": "【卫戍协议：规程】离谱绝活阵容-精准伊比利亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 501,
+      "published_on": "2026-11-10T01:20:49+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "精准伊比利亚",
+        "locator": "00:00–08:21音轨；关键帧",
+        "notes": "旅骨空弦连接精准，本家售价链稳场，后期棘刺与输出；不强依赖变形者或多个球。"
+      },
+      "route_ids": [
+        "R24"
+      ]
+    },
+    {
+      "id": "S60",
+      "url": "https://www.bilibili.com/video/BV1EWW36fEZs/",
+      "title": "【卫戍协议：规程】离谱绝活阵容-远见伊比利亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 600,
+      "published_on": "2026-11-10T20:53:38+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "远见伊比利亚",
+        "locator": "00:00–10:00音轨；关键帧",
+        "notes": "三本旅骨海沫空弦，四本寒檀流明温蒂，五本棘刺，后期逻各斯；按规则库订正口述阶数。"
+      },
+      "route_ids": [
+        "R31"
+      ]
+    },
+    {
+      "id": "S61",
+      "url": "https://www.bilibili.com/video/BV1aZWg62E8X/",
+      "title": "【卫戍协议：规程】速通必玩阵容-莱塔尼亚+伊比利亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 633,
+      "published_on": "2026-11-10T21:53:31+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "莱塔伊比利亚转职",
+        "locator": "00:00–10:33音轨；关键帧",
+        "notes": "先三加三，车尔尼小鼓配同构体转蓝毒/旅骨；双六必须核算球与席位，来牌差回单主轴。"
+      },
+      "route_ids": [
+        "R32"
+      ]
+    },
+    {
+      "id": "S62",
+      "url": "https://www.bilibili.com/video/BV12hWy6AE7f/",
+      "title": "【卫戍协议：规程】前期兜底阵容推荐-聚合莱塔尼亚全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 518,
+      "published_on": "2026-11-11T17:54:49+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "聚合莱塔",
+        "locator": "00:00–08:38音轨；关键帧",
+        "notes": "低阶莱塔起步，四本黑键艾雅法拉，五本纯烬艾雅法拉；偏兜底，输出不足不能用精奥例证掩盖。"
+      },
+      "route_ids": [
+        "R28"
+      ]
+    },
+    {
+      "id": "S63",
+      "url": "https://www.bilibili.com/video/BV1ovWi6tECG/",
+      "title": "【卫戍协议：规程】兜底阵容推荐-奇迹卡西米尔全攻略教程",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 541,
+      "published_on": "2026-11-13T19:00:15+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "奇迹卡西米尔",
+        "locator": "02:24–03:46技能；04:02–09:01运营",
+        "notes": "速三瑕光与奇迹对空，四本玛恩纳赫德雷/安洁莉娜；砾S2保阻挡，不同于S49砾S1卸模。概率刷新不是无限资金。"
+      },
+      "route_ids": [
+        "R33"
+      ],
+      "module_ids": [
+        "M04"
+      ]
+    },
+    {
+      "id": "S64",
+      "url": "https://www.bilibili.com/video/BV1rtWi6AEua/",
+      "title": "【卫戍协议：规程】前期强力下限稳定-维多利亚坚守阵容攻略",
+      "authors": [
+        {
+          "name": "晓杰425",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "视频教学",
+      "duration_seconds": 674,
+      "published_on": "2026-11-13T18:33:13+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "坚守维多利亚",
+        "locator": "00:00–11:14音轨；关键帧",
+        "notes": "三本水灯心、Miss.Christine过渡，四本涤杰白铁，五本维娜/塞雷娅；质量不足不硬跳本，转职外援需球和锤。"
+      },
+      "route_ids": [
+        "R13"
+      ]
+    },
+    {
+      "id": "S65",
+      "url": "https://www.bilibili.com/video/BV15nWq6oEau/",
+      "title": "我流向卫戍协议小盟约叠层推荐",
+      "authors": [
+        {
+          "name": "肥美尾巴奖励我",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 16,
+      "published_on": "2026-11-13T17:18:00+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_visual_text；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "主副盟约搭配速查",
+        "locator": "00:03、00:08、00:13图表",
+        "notes": "作者偏好表：叙拉古精准、萨尔贡精准/灵巧、谢拉格迅捷/灵巧等；伊比利亚迅捷“刚需”仅为该作者偏好，与多个精奥/低本攻略不一致。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M07"
+      ]
+    },
+    {
+      "id": "S66",
+      "url": "https://www.bilibili.com/video/BV1suWu6hE9c/",
+      "title": "卫戍协议所有地图全站位",
+      "authors": [
+        {
+          "name": "爆爆-明日方舟",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 45,
+      "published_on": "2026-11-10T19:10:43+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_visual_text；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "道中与Boss站位图",
+        "locator": "00:03、00:06、00:12、00:19、00:25、00:32、00:38地图帧",
+        "notes": "多地图输出/重装/奶位方向示意，Boss与道中分开。没有逐单位攻击范围，不能当任意阵容固定坐标。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M05"
+      ]
+    },
+    {
+      "id": "S67",
+      "url": "https://www.bilibili.com/video/BV1J9Wt6VEBZ/",
+      "title": "新版卫戍协议转职一览",
+      "authors": [
+        {
+          "name": "一页知粥Bella",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 15,
+      "published_on": "2026-11-09T18:20:51+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_visual_text；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "转职装备图",
+        "locator": "00:03、00:06、00:10、00:12图表",
+        "notes": "同构体加对应装备才转职；六阶商店和缪尔赛思为后期途径，不能当作每局确定拿到。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M06"
+      ]
+    },
+    {
+      "id": "S68",
+      "url": "https://www.bilibili.com/video/BV1WvWH6wEbd/",
+      "title": "小刻也能看懂的卫戍协议最新攻略(乌萨斯篇)",
+      "authors": [
+        {
+          "name": "爆爆-明日方舟",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 21,
+      "published_on": "2026-11-08T22:03:59+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_visual_text；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "乌萨斯阶段图",
+        "locator": "00:03、00:05、00:11、00:17图表",
+        "notes": "新手杰西卡/后续赫拉格建议；三本维伊过渡，四本赫拉格/冻河，后期塔露拉；六乌三奥二迅捷二远见为理想终局，不保证固定回合齐牌。"
+      },
+      "route_ids": [
+        "R04"
+      ]
+    },
+    {
+      "id": "S69",
+      "url": "https://www.bilibili.com/video/BV1xvWd6FE81/",
+      "title": "叙拉古不是区！谁说三期玩不了叙拉古！",
+      "authors": [
+        {
+          "name": "阿闰_Au79",
+          "role": "视频发布账号；不据此认定首创"
+        }
+      ],
+      "kind": "后期实战例证",
+      "duration_seconds": 630,
+      "published_on": "2026-11-12T17:45:49+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "叙拉古高层实战",
+        "locator": "00:00–10:30音轨；00:03–07:29关键帧",
+        "notes": "从第13回合附近开始，出现999层；只作后期例证，未展示完整开局，未确认其他连麦者身份。"
+      },
+      "route_ids": [
+        "R17"
+      ]
+    },
+    {
+      "id": "S70",
+      "url": "https://www.bilibili.com/video/BV1rwWH69E7B/",
+      "title": "【卫戍协议∶规程】全干员技能更换推荐（一图流）",
+      "authors": [
+        {
+          "name": "白樱iridescent",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 371,
+      "published_on": "2026-11-09T01:06:15+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "全干员技能选择",
+        "locator": "00:00–06:11音轨；技能页面帧",
+        "notes": "白樱个人选择：砾S1卸模、白铁S3、鸿雪S2、凛御银灰S2等；旅骨后来在S23P2改S2。不要把泛用技能与特定路线混用。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M04"
+      ]
+    },
+    {
+      "id": "S71",
+      "url": "https://www.bilibili.com/video/BV1KAWD62EDS/",
+      "title": "【卫戍协议∶规程】看懂十四个附加盟约叠层方式（一图流）",
+      "authors": [
+        {
+          "name": "白樱iridescent",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 383,
+      "published_on": "2026-11-12T04:45:11+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "附加盟约特质分类",
+        "locator": "00:00–06:23音轨；分类图",
+        "notes": "按获得、出售、休整、战斗阶段分叠层；塞雷娅只复制休整结束特质。进阶显示值不当普通值；经济卡成本随折扣变。"
+      },
+      "route_ids": [],
+      "module_ids": [
+        "M03"
+      ]
+    },
+    {
+      "id": "S72",
+      "url": "https://www.bilibili.com/video/BV1u8W26kEoy/",
+      "title": "【卫戍协议】干员技能及模组选择（萨尔贡）",
+      "authors": [
+        {
+          "name": "凌光直上星墟",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 37,
+      "published_on": "2026-11-11T21:12:23+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "萨尔贡技能",
+        "locator": "00:00–00:37音轨及技能画面",
+        "notes": "作者用艾丝黛尔S1、泡泡S2、莎草S1、卡涅利安S3、至简S2、森蚺S3、异客S3、佩佩S3、鸿雪S3、真言S3。与白樱的泛用方案分开；未清晰核实的模组不抄。"
+      },
+      "route_ids": [
+        "R16"
+      ],
+      "module_ids": [
+        "M04"
+      ]
+    },
+    {
+      "id": "S73",
+      "url": "https://www.bilibili.com/video/BV1sdWe6KEKn/",
+      "title": "【卫戍协议_规程】莱塔尼亚_专属篇 一图流",
+      "authors": [
+        {
+          "name": "一罐方舟冰可乐",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "机制/技能/图解",
+      "duration_seconds": 82,
+      "published_on": "2026-11-13T13:40:57+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "莱塔尼亚图解",
+        "locator": "00:00–00:41总览；00:42–01:22回合图",
+        "notes": "复奏/小贾斯汀/本家等策略选项；先三莱和精奥，后期双羊、逻各斯或蕾缪安；后两者需转职条件。聚合用于召唤物续航，升本为理想节奏。"
+      },
+      "route_ids": [
+        "R08"
+      ]
+    },
+    {
+      "id": "S74",
+      "url": "https://www.bilibili.com/video/BV1H6Wd6dECX/",
+      "title": "罗素坚守聚合伊比利亚的讨论",
+      "authors": [
+        {
+          "name": "古怪洋葱头",
+          "role": "发布/讲解账号"
+        }
+      ],
+      "kind": "思路讨论与实战",
+      "duration_seconds": 2110,
+      "published_on": "2026-11-13T01:27:49+08:00",
+      "reviewed_on": "2026-11-15",
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "verification": "reviewed_audio_and_keyframes；音轨经人工校对，静音图解以画面为据；非逐帧连续观看",
+      "reviewed_parts": [
+        1
+      ],
+      "evidence": {
+        "topic": "罗素聚合坚守伊比利亚",
+        "locator": "00:00–05:40单卡；09:13–21:59分支；22:00–35:06定位与组成；10:00/30:00实战帧",
+        "notes": "罗素精锐增益与聚合生存配合，三四本停留；瑰盐流明双聚合，旅骨蓝毒核心。坚守起步先补生存再六伊；精准起步较早六伊。低重量怪海与折射是缺口，不把讨论中三次加成当实测倍率。"
+      },
+      "route_ids": [
+        "R26"
+      ]
     }
   ],
   "reference_sources": [
@@ -513,7 +2061,9 @@
       "foundation": [
         "S03 图6（炎）、图11（通用叠层）"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R02",
@@ -521,11 +2071,13 @@
       "family": "卡西米尔",
       "summary": "卡三本或四本，以低阶叠层、减再部署和玛恩纳输出成型。",
       "source_ids": [
-        "S05"
+        "S05",
+        "S49"
       ],
       "authors": [
         "某中二的鸽子",
-        "独步天下的卫戍均层交流群"
+        "独步天下的卫戍均层交流群",
+        "澈澈Fault"
       ],
       "core_operators": [
         "砾",
@@ -565,6 +2117,16 @@
             "S05"
           ],
           "detail": "作者不推荐优先追求玛恩纳转突袭；先把经济投向装备、精准与有效的生存/再部署链。"
+        },
+        {
+          "name": "卡西米尔不屈突袭图解",
+          "sources": [
+            "S49"
+          ],
+          "authors": [
+            "澈澈Fault"
+          ],
+          "detail": "澈澈Fault：野鬃、砾S1卸模、瑕光起步，赫德雷补突袭；中期三卡，后期六卡配不屈/突袭。高不屈存活会影响整备区登场链，不能只追层数。"
         }
       ],
       "limits": [
@@ -576,12 +2138,18 @@
         {
           "source": "S05",
           "locator": "约00:00–01:26定位/升本，01:26–02:52过渡与叠层，02:52–03:48终局"
+        },
+        {
+          "source": "S49",
+          "locator": "00:35–03:45前中期；03:45–07:55后期；07:55–09:01装备"
         }
       ],
       "foundation": [
         "S03 图10"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R03",
@@ -589,12 +2157,14 @@
       "family": "森蚺",
       "summary": "依靠暴躁铁皮自身攻击力，主叠灵巧，用进阶精准狙击镜增加远距离输出。",
       "source_ids": [
-        "S06"
+        "S06",
+        "S43"
       ],
       "authors": [
         "某中二的鸽子",
+        "独步天下的卫戍均层交流群",
         "富营养的狂暴离厨组长",
-        "独步天下的卫戍均层交流群"
+        "A阿戈尔路灯管理"
       ],
       "core_operators": [
         "“暴躁铁皮”",
@@ -635,6 +2205,16 @@
             "S06"
           ],
           "detail": "发布/讲解：某中二的鸽子；简介文案署名：富营养的狂暴离厨组长；制作署名：独步天下的卫戍均层交流群。简介另致谢海绵宝宝凯猫猫（精神支柱），不据此认定其为打法作者。"
+        },
+        {
+          "name": "小盟约大丑运营与束缚失败",
+          "sources": [
+            "S43"
+          ],
+          "authors": [
+            "A阿戈尔路灯管理"
+          ],
+          "detail": "A阿戈尔路灯管理：二本云迹格雷伊与电话，空弦过渡，约九回合上四补投资人；后期精奥转大丑。隐藏Boss失败，需处理束缚与站位；不是六狙击镜同装备方案。"
         }
       ],
       "limits": [
@@ -647,10 +2227,16 @@
         {
           "source": "S06",
           "locator": "约00:00–01:13倍率与站位，01:13–02:25运营/图池，02:25–03:08转型；作者简介"
+        },
+        {
+          "source": "S43",
+          "locator": "00:28–06:28教学；06:28–12:14实战"
         }
       ],
       "foundation": [],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R04",
@@ -660,12 +2246,15 @@
       "source_ids": [
         "S07",
         "S08",
-        "S09"
+        "S09",
+        "S48",
+        "S68"
       ],
       "authors": [
         "白樱iridescent",
         "自在道爷",
-        "苏白Seb"
+        "苏白Seb",
+        "爆爆-明日方舟"
       ],
       "core_operators": [
         "折桠",
@@ -728,6 +2317,26 @@
             "S09"
           ],
           "detail": "推荐杰西卡/怒潮凛冬，理想第10回合前取得冻河；倾向维伊、霍尔海雅过渡，不把赫拉格列为理想主抓卡。展示为单人N17。"
+        },
+        {
+          "name": "杰西卡单人普通Boss与隐藏失败",
+          "sources": [
+            "S48"
+          ],
+          "authors": [
+            "苏白Seb"
+          ],
+          "detail": "苏白Seb：青枳朝向与冻河支援，塔露拉到手较晚；普通Boss通过，隐藏Boss失败。夜莺、生存和冻河朝向是复盘改进，未验证改进后全通。"
+        },
+        {
+          "name": "乌萨斯阶段图解",
+          "sources": [
+            "S68"
+          ],
+          "authors": [
+            "爆爆-明日方舟"
+          ],
+          "detail": "爆爆-明日方舟：先战力、维伊过渡，四本赫拉格/冻河，后期塔露拉。六乌三奥二迅捷二远见，或转职的灵巧变体，是终局参考；3/5/7/9/11回合升本不能强制照抄。"
         }
       ],
       "limits": [
@@ -747,12 +2356,22 @@
         {
           "source": "S09",
           "locator": "约00:00–02:06运营，02:06–02:44展示"
+        },
+        {
+          "source": "S48",
+          "locator": "00:00–04:53前中期；06:30–10:03普通Boss；10:05–11:34隐藏Boss失败复盘"
+        },
+        {
+          "source": "S68",
+          "locator": "00:03、00:05、00:11、00:17图表"
         }
       ],
       "foundation": [
         "S03 图1、图11"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R05",
@@ -822,7 +2441,9 @@
       "foundation": [
         "S03 图1、图10；DB01 乌萨斯/不屈/砾规则"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R06",
@@ -831,11 +2452,13 @@
       "summary": "以精准、灵巧、奥术作为主要成长，把大丑强度用于过渡，再转职提高终局上限。",
       "source_ids": [
         "S11",
-        "S13"
+        "S13",
+        "S43"
       ],
       "authors": [
         "白樱iridescent",
-        "绮梦"
+        "绮梦",
+        "A阿戈尔路灯管理"
       ],
       "core_operators": [
         "“暴躁铁皮”",
@@ -890,6 +2513,16 @@
             "S13"
           ],
           "detail": "明确“二本森蚺”不是整局停二本；依靠大丑战力快速上本。提出3精准、3奥术与协防的终局方向，逻各斯、迷迭香、夜莺、Mon3tr为可选补强。"
+        },
+        {
+          "name": "小盟约精奥大丑实战",
+          "sources": [
+            "S43"
+          ],
+          "authors": [
+            "A阿戈尔路灯管理"
+          ],
+          "detail": "A阿戈尔路灯管理的电话与经济装过渡；结尾失败，不能据其标题声称所有ban位均能通关。"
         }
       ],
       "limits": [
@@ -905,10 +2538,16 @@
         {
           "source": "S13",
           "locator": "00:05–00:31升本，00:31–00:49装备/终局，00:51–00:55禁用"
+        },
+        {
+          "source": "S43",
+          "locator": "00:28–06:28教学；06:28–12:14实战"
         }
       ],
       "foundation": [],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R07",
@@ -967,7 +2606,9 @@
         }
       ],
       "foundation": [],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R08",
@@ -975,10 +2616,12 @@
       "family": "莱塔尼亚",
       "summary": "以黑键、霍尔海雅叠层，四本晋升寻找薇薇安娜和纯烬艾雅法拉，低阶终端即可形成输出。",
       "source_ids": [
-        "S14"
+        "S14",
+        "S73"
       ],
       "authors": [
-        "白樱iridescent"
+        "白樱iridescent",
+        "一罐方舟冰可乐"
       ],
       "core_operators": [
         "地灵",
@@ -1023,6 +2666,16 @@
             "S14"
           ],
           "detail": "杰西卡适合稳定找牌；昆图斯适合能根据随机高阶牌转阵容的玩家。与大嘴、变形者版本共享底盘，但指令使用和转职获取节奏不同。"
+        },
+        {
+          "name": "莱塔双羊与转职终端图解",
+          "sources": [
+            "S73"
+          ],
+          "authors": [
+            "一罐方舟冰可乐"
+          ],
+          "detail": "一罐方舟冰可乐：前期三莱与精奥，中后期双羊续航，可转职逻各斯或蕾缪安；艾雅法拉S3偏爆发、S2也可用。奇数回合升本仅作条件式参考。"
         }
       ],
       "limits": [
@@ -1034,12 +2687,18 @@
         {
           "source": "S14",
           "locator": "约00:00–02:54前中期，02:54–04:34终局，04:34–05:29技能补充"
+        },
+        {
+          "source": "S73",
+          "locator": "00:00–00:41总览；00:42–01:22回合图"
         }
       ],
       "foundation": [
         "S03 图3、图11"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R09",
@@ -1124,7 +2783,9 @@
       "foundation": [
         "S03 图3、图11"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R10",
@@ -1211,7 +2872,9 @@
       "foundation": [
         "S03 图3、图11"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     },
     {
       "id": "R11",
@@ -1299,7 +2962,1892 @@
       "foundation": [
         "S03 图4、图11；DB01 干员等阶与阿戈尔规则"
       ],
-      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现"
+      "validation": "已核对原视频解说/字幕、简介与代表性画面；未进行游戏复现",
+      "evidence_status": "reviewed_guide",
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R12",
+      "title": "复奏一本攒对子与奇数回合升本",
+      "family": "复奏通用",
+      "source_ids": [
+        "S21",
+        "S52",
+        "S53"
+      ],
+      "core_operators": [
+        "霍尔海雅",
+        "黑键"
+      ],
+      "covenants": [
+        "精准",
+        "奥术"
+      ],
+      "summary": "利用每回合首次晋升的额外奖励，按实际碰出的叠层牌选择体系；一本留牌和较早升本是两个作者分支。",
+      "operation": [
+        "白樱iridescent：前1–5回合留一本收对子，装备先稳场；不要把普通单卡全部留满导致没有购买空间。",
+        "有约三组对子且能承担升本损失时，示例在6–7回合升三本，逐回合兑现首次晋升奖励，优先黑键或霍尔海雅等能启动的四阶牌。",
+        "碰到黑键走三莱塔尼亚加精准，碰到霍尔海雅先开精准和奥术；奶、前排和叠层配合跟随来牌，不要求两张同时到手。",
+        "四阶核心站住后，示例8–10回合升四本，利用晋升奖励找纯烬艾雅法拉等五阶；没找到就保留已有生存卡。",
+        "稳定后再上五本碰六阶终端；莱塔示例可向精奥聚合完成，转职球和装备到位才提高组合上限。",
+        "泰拉史记员的3/5/7/9回合升本是另一种较快的示例；七濑逍遥提供中后期实战展示，不能据其画面补造前九回合。"
+      ],
+      "equipment": [
+        "优先能保血的装备；同构体加精准狙击镜可给后期输出补精准，必须留出装备位。"
+      ],
+      "positioning": [
+        "渡桥与空弦等休整叠层要校对朝向；霍尔海雅需在战斗中开技，不能放整备区等层数。"
+      ],
+      "limits": [
+        "这是灵活运营框架，适合已认识多套主轴的人。",
+        "“每回合首次”奖励有次数限制，不能将当回合所有三连都按双奖励计算。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "白樱iridescent",
+        "泰拉史记员",
+        "七濑逍遥"
+      ],
+      "variants": [
+        {
+          "name": "一本延后兑现",
+          "sources": [
+            "S21"
+          ],
+          "authors": [
+            "白樱iridescent"
+          ],
+          "detail": "先积对子再碰四阶；莱塔只是演示分支。"
+        },
+        {
+          "name": "奇数回合上本",
+          "sources": [
+            "S52"
+          ],
+          "authors": [
+            "泰拉史记员"
+          ],
+          "detail": "较快的升本节奏，须自行满足保血与对子条件。"
+        },
+        {
+          "name": "精奥实战补充",
+          "sources": [
+            "S53"
+          ],
+          "authors": [
+            "七濑逍遥"
+          ],
+          "detail": "仅核对第10回合之后的阵容与晋升画面。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S21",
+          "locator": "00:00–04:52；一图流关键帧"
+        },
+        {
+          "source": "S52",
+          "locator": "00:00–00:52音轨与图"
+        },
+        {
+          "source": "S53",
+          "locator": "00:03–04:23关键帧；00:00–05:07音轨"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R13",
+      "title": "坚守维多利亚：涤火杰西卡与塞雷娅",
+      "family": "维多利亚",
+      "source_ids": [
+        "S22",
+        "S36",
+        "S39",
+        "S64"
+      ],
+      "core_operators": [
+        "涤火杰西卡",
+        "塞雷娅",
+        "凯瑟琳"
+      ],
+      "covenants": [
+        "维多利亚",
+        "坚守"
+      ],
+      "summary": "通过装备条件和休整期特质联动叠层，先解决道中生存，再按来牌选择维娜、烛煌等终端。",
+      "operation": [
+        "前期用低阶前排、治疗和小盟约稳场，顺手留Miss.Christine、哈洛德；有凯瑟琳时取得重锤。",
+        "白樱的杰西卡策略示例在约第7回合四本用寻呼模块找涤火杰西卡；复奏版本则先攒对子再于三本碰四阶。两套节奏分开执行。",
+        "中期先完成三维多利亚、三坚守的可用阵容；给符合条件的维多利亚干员穿装备，触发涤火杰西卡。",
+        "四本晋升奖励碰塞雷娅或维娜·维多利亚；直接升五找她们须血量与队伍战力允许。塞雷娅朝向涤火杰西卡，检查所复制的休整期触发。",
+        "关键卡精锐后，再补六维多利亚和输出。变形者加重锤可减少本家挂件，但不能把无装备的转职单位算成完整叠层链。",
+        "后期依来牌选择烛煌或酒神等输出，保住治疗和前排。白铁可改善普通装备；不能为了追六阶卖掉当前扛线核心。"
+      ],
+      "equipment": [
+        "凯瑟琳给维式重锤；多余资金可补低价装备满足特质。",
+        "烛煌方向可优先考虑灼燃维式重锤；转职仍需同构体与对应装备。"
+      ],
+      "positioning": [
+        "塞雷娅前方应是需要复制特质的干员；双塞雷娅不是无条件翻倍，要分别核对朝向和激活。",
+        "把脆弱终端放在治疗范围内，观察远程敌人的锁定。"
+      ],
+      "limits": [
+        "阿粥不吃苦强调烛煌与酒神可能竞争损伤触发；晓杰425的常规维建议同时找两者，保留分歧，实战按触发与覆盖选择。",
+        "999层和“不吃精奥”是该分支表达，不代表任何禁选都能成型。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "白樱iridescent",
+        "阿粥不吃苦",
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "公式化坚守维",
+          "sources": [
+            "S22"
+          ],
+          "authors": [
+            "白樱iridescent"
+          ],
+          "detail": "分杰西卡、复奏等开局，三维三坚守先启动。"
+        },
+        {
+          "name": "变形者坚守维",
+          "sources": [
+            "S36"
+          ],
+          "authors": [
+            "阿粥不吃苦"
+          ],
+          "detail": "不用精准奥术作必需，塞雷娅配涤火杰西卡；后期偏烛煌。"
+        },
+        {
+          "name": "常规本家与坚守复合",
+          "sources": [
+            "S39",
+            "S64"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "前期按战力在三/四本停留，后期输出按取得情况决定。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S22",
+          "locator": "P1 00:00–04:50；P2 00:00–01:08技能补充"
+        },
+        {
+          "source": "S36",
+          "locator": "00:00–00:55"
+        },
+        {
+          "source": "S39",
+          "locator": "01:59–02:53叠层；04:35–07:20运营；07:20–09:39终端"
+        },
+        {
+          "source": "S64",
+          "locator": "00:00–11:14音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R14",
+      "title": "三本伊比利亚：旅骨海沫与蓝毒",
+      "family": "伊比利亚",
+      "source_ids": [
+        "S23"
+      ],
+      "core_operators": [
+        "旅骨",
+        "海沫",
+        "蓝毒",
+        "流明",
+        "温蒂"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "坚守"
+      ],
+      "summary": "低本先叠售价与本家层数，蓝毒负责持续输出，优先获得治疗和稳定前排。",
+      "operation": [
+        "白樱示例第二回合升二、第四回合升三；前期深靛、蓝毒、瑰盐等凑三伊比利亚，按实际商店补前排。",
+        "三本重点找旅骨、海沫并争取精锐；把高售出价海沫放旅骨前方，休整期结束前摆好。",
+        "三本晋升奖励优先流明，温蒂也能补售价和坚守；先满足能活、能叠，不为六伊比利亚拆散前排。",
+        "核心稳定后升四，追流明与温蒂质量。普通棘刺在五阶，四本只能通过已确认的特殊获取途径碰出。",
+        "后期可完成六伊比利亚配坚守/聚合；引星棘刺是后续来牌选择，不作为前期投入的保证。",
+        "蓝毒继续承担对单；只有转职、席位和对应层数都满足时才考虑精准分支。"
+      ],
+      "equipment": [
+        "蓝毒可用精准狙击镜、双模机械臂提高输出。",
+        "坚守或聚合转职按缺口选；没有同构体时只按装备本身效果计算。"
+      ],
+      "positioning": [
+        "海沫与旅骨的关系依据售出价，不能把购买价代入。",
+        "流明覆盖核心区域；用温蒂等扛住敌人，让蓝毒有持续输出时间。"
+      ],
+      "limits": [
+        "原教学偏联机；单人时要独立承担漏怪和Boss输出。",
+        "不把作者口头胜率当作经统计的数据。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "白樱iridescent"
+      ],
+      "variants": [
+        {
+          "name": "三本伊比利亚：旅骨海沫与蓝毒",
+          "sources": [
+            "S23"
+          ],
+          "authors": [
+            "白樱iridescent"
+          ],
+          "detail": "低本先叠售价与本家层数，蓝毒负责持续输出，优先获得治疗和稳定前排。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S23",
+          "locator": "P1 00:00–03:05；P2 00:00–00:56技能补充"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R15",
+      "title": "谢拉格：灵巧叠层与迅捷控制",
+      "family": "谢拉格",
+      "source_ids": [
+        "S24",
+        "S45"
+      ],
+      "core_operators": [
+        "初雪",
+        "灵知",
+        "圣聆初雪",
+        "凛御银灰"
+      ],
+      "covenants": [
+        "谢拉格",
+        "灵巧"
+      ],
+      "summary": "前期用强力散件渡过，三本初雪、四本灵知衔接；根据云迹是否可用分灵巧与迅捷方案。",
+      "operation": [
+        "言情小说女主：开局先买战力与对子，二本找云迹开灵巧/奇迹；晓杰425更偏尽早三本找初雪。都不要求第一轮硬凑三谢。",
+        "三本找到初雪并补可用前排，晋升奖励争取灵知、华法琳或夜莺；场面撑不住时留三本补质量。",
+        "四本灵知提供控制，华法琳等协助战斗叠层，站住后五本寻找圣聆初雪、凛御银灰。",
+        "少转职时保留三谢混编而非强塞六谢；六谢召唤物可能把怪拦在叠层范围外，也可能在缺前排时救场，按地图选择。",
+        "圣聆初雪承担输出，叠层足够后再换终端或补六谢。言情小说女主采用凛御银灰S2，晓杰425偏S3，不把不同技能条件混为一套。",
+        "云迹不可用时，言情小说女主提出灵知搭冻河叠迅捷与连续控制；此时补治疗/协防和奥术输出，不能沿用灵巧版的伤害预期。"
+      ],
+      "equipment": [
+        "雪祀之衣可给初雪、灵知改善前出叠层的风险；圣聆初雪优先考虑输出装备。",
+        "谢拉格不融冰加同构体可转外援，佩佩、帕拉斯等须实际来牌和席位允许。"
+      ],
+      "positioning": [
+        "控制范围、初雪叠层范围和敌人停留处要重合。",
+        "不要为叠层把脆皮前置在远程/隐匿敌人的火力里；必要时牺牲叠层保血。"
+      ],
+      "limits": [
+        "双作者对六谢评价不同，不能写成六谢永远强或永远不用。",
+        "迅捷替代需要冻河在可用池，不是云迹被禁就必然有替代。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425",
+        "言情小说女主"
+      ],
+      "variants": [
+        {
+          "name": "灵巧奇迹谢拉格",
+          "sources": [
+            "S45"
+          ],
+          "authors": [
+            "言情小说女主"
+          ],
+          "detail": "云迹起步，少转职不强六谢，后期主养圣聆初雪。"
+        },
+        {
+          "name": "本家速三分支",
+          "sources": [
+            "S24"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "初雪尽早进场，队伍质量决定四/五本时机。"
+        },
+        {
+          "name": "迅捷控制替代",
+          "sources": [
+            "S45"
+          ],
+          "authors": [
+            "言情小说女主"
+          ],
+          "detail": "云迹缺席且冻河可用时的低爆发控制分支。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S24",
+          "locator": "03:09–04:35叠层；04:35–06:52升本分支；07:55–12:57六谢取舍"
+        },
+        {
+          "source": "S45",
+          "locator": "00:31–02:50前期；02:50–06:55装备与终局；06:55–09:29云迹被禁替代"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R16",
+      "title": "萨尔贡：佩佩检索、精奥与灵巧分支",
+      "family": "萨尔贡",
+      "source_ids": [
+        "S25",
+        "S46",
+        "S47",
+        "S72"
+      ],
+      "core_operators": [
+        "卡涅利安",
+        "异客",
+        "鸿雪",
+        "佩佩"
+      ],
+      "covenants": [
+        "萨尔贡",
+        "精准"
+      ],
+      "summary": "利用流沙地面过渡，以鸿雪、佩佩和精奥外援补中后期叠层；保留不同作者的升本与副盟约选择。",
+      "operation": [
+        "霜月无极的佩佩策略：开局两张能扛能打的牌，第二回合升二，保留策略检索到三本再用，避免提前耗在低阶本家池。",
+        "其示例第四回合升三、第五回合寻找卡涅利安，莎草补治疗；找不到或来怪压力大，先补战力而非照时间表升四。",
+        "四本异客提供资源，霍尔海雅同时接精准与奥术；拿到转职球和萨尔贡浓茶才可让外援兼本家。",
+        "五本重点鸿雪和佩佩。晓杰425更强调提前取得二者；卡四碰五与直接上五是血量和队伍条件下的两个选择。",
+        "精奥来牌不顺时可走佩佩、华法琳、帕拉斯等灵巧支援；先保住六萨尔贡的场面与可靠输出，不硬追同一张牌。",
+        "后期真言按本家层数决定价值，也可保留霍尔海雅或其他高质量输出；主盟约层数高不等于攻速无限增长。"
+      ],
+      "equipment": [
+        "萨尔贡浓茶改善技能回转，异客是取得途径之一。",
+        "同构体加浓茶用于萨尔贡转职；精准狙击镜及灵巧装备按最终输出与条件配置。"
+      ],
+      "positioning": [
+        "确保莎草覆盖前排；佩佩与帕拉斯联动时核对前后格。",
+        "流沙控制需要开技与战斗条件，不应把低本无层数时也视为满控制。"
+      ],
+      "limits": [
+        "霜月无极偏副盟约叠层，晓杰425偏本家高阶叠层；分支分开署名。",
+        "S47仅是后期精准灵巧实战，S72为技能图解，两者不能证明完整运营。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425",
+        "霜月无极",
+        "眼镜是本体oao",
+        "凌光直上星墟"
+      ],
+      "variants": [
+        {
+          "name": "佩佩检索精奥",
+          "sources": [
+            "S46"
+          ],
+          "authors": [
+            "霜月无极"
+          ],
+          "detail": "延后首次定向检索到三本，四本异客/海雅，五本鸿雪佩佩。"
+        },
+        {
+          "name": "高阶本家叠层",
+          "sources": [
+            "S25"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "按生存速四五寻找鸿雪佩佩，转职外援补输出。"
+        },
+        {
+          "name": "精准灵巧实战例证",
+          "sources": [
+            "S47"
+          ],
+          "authors": [
+            "眼镜是本体oao"
+          ],
+          "detail": "画面显示后期组合与Boss战，只作为终局参考。"
+        },
+        {
+          "name": "技能配置补充",
+          "sources": [
+            "S72"
+          ],
+          "authors": [
+            "凌光直上星墟"
+          ],
+          "detail": "只采纳图中可辨认的技能建议，不外推运营。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S25",
+          "locator": "01:35–03:52叠层；04:43–08:40运营；08:40–09:49终端"
+        },
+        {
+          "source": "S46",
+          "locator": "02:25–06:45副盟约；06:45–15:29运营；15:29–25:17核心与终端"
+        },
+        {
+          "source": "S47",
+          "locator": "00:03–02:30关键帧；02:04胜利画面"
+        },
+        {
+          "source": "S72",
+          "locator": "00:00–00:37音轨及技能画面"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R17",
+      "title": "叙拉古：伺夜精准过渡与高阶转型",
+      "family": "叙拉古",
+      "source_ids": [
+        "S26",
+        "S37",
+        "S69"
+      ],
+      "core_operators": [
+        "伺夜",
+        "斥罪",
+        "贝洛内",
+        "荒芜拉普兰德"
+      ],
+      "covenants": [
+        "叙拉古",
+        "精准"
+      ],
+      "summary": "围绕伺夜的低本战力与精准过渡，再寻找高阶本家；区分稳血低本与有队友支援的速本。",
+      "operation": [
+        "夜の第漆夜：贾维适合定向发牌入门，裁度偏更高成型要求；开局多拿对子，二本晋升奖励优先伺夜。",
+        "先开三叙拉古两精准，三本用忍冬、伊桑、吉星等改善找牌；忍冬免费刷新可以留到需要的阶段。",
+        "四本补霍尔海雅、斥罪和可用治疗；精准不足不能把蓝毒等无精准户口干员直接算进去。",
+        "稳血后升五找贝洛内、铃兰和精准高阶。原作者自选异格安洁莉娜需已加入本局，库内默认卡池不能假定有她。",
+        "六叙拉古三精准成型后，再升六或五本晋升奖励找荒芜拉普兰德、蕾缪安等终端；来牌不足时保留三叙混编。",
+        "晓杰425的速本方案只在队伍能承担过渡时采用，不能替代低本先叠伺夜的路线；遇重甲/折射要检查实际伤害类型。"
+      ],
+      "equipment": [
+        "萨尔贡浓茶帮助关键输出回转；叙拉古正装加同构体可转输出外援。"
+      ],
+      "positioning": [
+        "先保证斥罪等阻挡与治疗，再安排伺夜输出；核心输出不应放在独自接多路怪的位置。"
+      ],
+      "limits": [
+        "不同策略的异常效果不可混用，先读取本局策略说明。",
+        "没有高阶终端时不把理想六叙当作已经成型。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425",
+        "夜の第漆夜",
+        "阿闰_Au79"
+      ],
+      "variants": [
+        {
+          "name": "低本稳血精准",
+          "sources": [
+            "S37"
+          ],
+          "authors": [
+            "夜の第漆夜"
+          ],
+          "detail": "二本碰伺夜，三本找牌循环，稳定后上五六。"
+        },
+        {
+          "name": "速本外援",
+          "sources": [
+            "S26"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "队友可兜底时提早高阶，先保生存再六叙。"
+        },
+        {
+          "name": "叙拉古高层数实战例证",
+          "sources": [
+            "S69"
+          ],
+          "authors": [
+            "阿闰_Au79"
+          ],
+          "detail": "从第13回合附近开始的后期展示，999层为个例；不据此编造开局或稳定成型时间。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S26",
+          "locator": "02:51–03:51叠层；03:51–08:33运营；08:33–10:09风险"
+        },
+        {
+          "source": "S37",
+          "locator": "00:02–01:39；作者简介"
+        },
+        {
+          "source": "S69",
+          "locator": "00:00–10:30音轨；00:03–07:29关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R18",
+      "title": "迅捷主轴：低本起步、主阵容接管",
+      "family": "迅捷混编",
+      "source_ids": [
+        "S27"
+      ],
+      "core_operators": [
+        "陨星",
+        "青枳",
+        "妮芙"
+      ],
+      "covenants": [
+        "迅捷",
+        "坚守"
+      ],
+      "summary": "先用低阶迅捷与前排建立层数，再接卡西米尔、乌萨斯或转职输出；不是单靠攻速取胜。",
+      "operation": [
+        "低本有陨星时先取得可用质量，不为跳本丢掉起步叠层牌。",
+        "三本寻找青枳，配两迅捷及前排/治疗；卡西米尔分支可接砾、瑕光，其他分支按可用池替换。",
+        "前排与伤害稳定后四本，补主阵容核心或叠层外援；没有稳定组合就继续补质量。",
+        "若走卡西米尔，四本玛恩纳/远牙、五本焰尾是衔接；若没有该主阵容，不照抄这些购买目标。",
+        "后期再取得妮芙或其他适配输出。W的收益要看迅捷积累，层数不足不因六阶想象而强留。",
+        "有同构体和迅捷作战粮时才考虑外援转迅捷；不转职也可保留两迅捷辅助成熟主阵容。"
+      ],
+      "equipment": [
+        "卡涅利安可提供迅捷作战粮；回转装备按输出技能需要分配。"
+      ],
+      "positioning": [
+        "青枳对准希望增加层数的后方干员；另留对空与治疗覆盖。"
+      ],
+      "limits": [
+        "回合示例非硬性时限；迅捷难以独立补足治疗、阻挡与Boss伤害。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "迅捷主轴：低本起步、主阵容接管",
+          "sources": [
+            "S27"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "先用低阶迅捷与前排建立层数，再接卡西米尔、乌萨斯或转职输出；不是单靠攻速取胜。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S27",
+          "locator": "01:40–03:24叠层装备；03:24–08:10运营"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R19",
+      "title": "不屈主轴：砾循环与隐德来希收尾",
+      "family": "不屈混编",
+      "source_ids": [
+        "S28"
+      ],
+      "core_operators": [
+        "砾",
+        "风丸",
+        "隐德来希"
+      ],
+      "covenants": [
+        "不屈",
+        "卡西米尔"
+      ],
+      "summary": "通过低阶砾循环积累不屈，视来牌连接卡西米尔或生存混编，再换高阶输出。",
+      "operation": [
+        "二本优先找砾，配摆渡人等可用不屈单位激活；先留住本轮能扛线的成员。",
+        "砾是早期叠层重点，重复购买与实际再部署条件相配合；风丸可补位，但不能假定每波都会倒下。",
+        "卡西米尔分支在三本找瑕光并补三卡；非卡西米尔分支则补治疗、对空和外部伤害。",
+        "队友或自身濒危时先提当前质量，不能为叠层放任漏怪；有余力再四、五本。",
+        "五本隐德来希提供输出和站场，斥罪/森蚺等依可用池补前排。",
+        "终局按本家、突袭或灵巧组合调整，替换只负责叠层却无法完成Boss目标的低阶挂件。"
+      ],
+      "equipment": [
+        "源石溶剂、不屈弹射器是否用于砾，需结合所选策略、再部署和治疗强度判断。"
+      ],
+      "positioning": [
+        "要牺牲的砾与必须存活的核心分开安排；不要用砾的倒下打断唯一阻挡线。"
+      ],
+      "limits": [
+        "不屈是概率与阈值机制，200层不等于无条件必定复活。",
+        "与卡西米尔整备区登场链并用时，存活与倒下触发可能存在取舍。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "不屈主轴：砾循环与隐德来希收尾",
+          "sources": [
+            "S28"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "通过低阶砾循环积累不屈，视来牌连接卡西米尔或生存混编，再换高阶输出。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S28",
+          "locator": "02:15–04:47砾；04:47–08:05后续"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R20",
+      "title": "奇迹伊比利亚：售价叠层与刷新经济",
+      "family": "伊比利亚",
+      "source_ids": [
+        "S30"
+      ],
+      "core_operators": [
+        "旅骨",
+        "海沫",
+        "云迹",
+        "棘刺"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "奇迹"
+      ],
+      "summary": "伊比利亚负责场面和售价叠层，奇迹降低找牌压力；适合两条链能同时启动的来牌。",
+      "operation": [
+        "先稳场升三，寻找旅骨、海沫、蓝毒与云迹，留另一奇迹单位激活；普通开局不直奔四本赌棘刺。",
+        "高售价海沫放旅骨前，温蒂来了也可使用；云迹及后续安洁莉娜提供奇迹积累。",
+        "队伍吃紧留四本找流明、温蒂和质量；队伍稳可上五找棘刺、维娜·维多利亚等。",
+        "四本三连碰五阶只是额外机会，没碰到不能当作已取得棘刺；先保证完整扛线。",
+        "在战力允许时保留多只售价/叠层单位，提高后续收益；每多放一只都要扣除对应作战席位。",
+        "后期利用已有奇迹收益补精锐或转职输出，刷新的随机免费效果不等于无限资金。"
+      ],
+      "equipment": [
+        "伊比利亚骨刺刀和同构体供外援转职，生存装先于未成型的终局堆装。"
+      ],
+      "positioning": [
+        "旅骨朝向高售出价干员；奇迹是否整备区激活按当前规则，不能把所有战斗特质放后排生效。"
+      ],
+      "limits": [
+        "双轴均需初始投入；云迹或关键伊比利亚成员不可用时转其他已成立路线。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "奇迹伊比利亚：售价叠层与刷新经济",
+          "sources": [
+            "S30"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "伊比利亚负责场面和售价叠层，奇迹降低找牌压力；适合两条链能同时启动的来牌。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S30",
+          "locator": "01:49–03:57叠层；03:57–06:39三至五本；06:39–09:28后期"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R21",
+      "title": "奥术伊比利亚：棘刺与法伤外援",
+      "family": "伊比利亚",
+      "source_ids": [
+        "S31"
+      ],
+      "core_operators": [
+        "旅骨",
+        "海沫",
+        "霍尔海雅",
+        "棘刺"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "奥术"
+      ],
+      "summary": "以低本伊比利亚过渡，四本霍尔海雅接五本棘刺，把法伤和生存逐步接起来。",
+      "operation": [
+        "二、三本先凑三伊比利亚与两奥术：深靛、蓝毒、海沫配Miss.Christine/卡达等实际可用牌。",
+        "三本旅骨朝海沫叠层，同时补能承伤的前排；不为等四阶卡空刷。",
+        "四本优先霍尔海雅；未找到时用已有奥术与治疗稳场，不照抄固定第6/7回合上本。",
+        "五本寻找棘刺、溯光星源等，按实际层数和场面决定是否替换低阶奥术。",
+        "有球与奥术法阵/伊比利亚骨刺刀时才转外援，先核对三奥术与六伊所需人数。",
+        "后期补逻各斯、圣聆初雪等只是可选，不把未抽出的六阶输出作为本回合方案。"
+      ],
+      "equipment": [
+        "奥术法阵配同构体；萨尔贡浓茶按技能回转需求使用。"
+      ],
+      "positioning": [
+        "保留蓝毒输出时间与奶位；霍尔海雅需要开技能才叠层。"
+      ],
+      "limits": [
+        "高法抗、折射与隐匿要分别处理，不以奥术层数概括全部对策。",
+        "作者关于禁选和技能的口头不确定表述不写成硬规则。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "奥术伊比利亚：棘刺与法伤外援",
+          "sources": [
+            "S31"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "以低本伊比利亚过渡，四本霍尔海雅接五本棘刺，把法伤和生存逐步接起来。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S31",
+          "locator": "04:23–06:15开局；06:15–08:36中期；08:36–11:12终端"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R22",
+      "title": "远见经济主轴：互叠、稳场与逻各斯",
+      "family": "远见混编",
+      "source_ids": [
+        "S32"
+      ],
+      "core_operators": [
+        "渡桥",
+        "空弦",
+        "寒檀",
+        "逻各斯"
+      ],
+      "covenants": [
+        "远见",
+        "精准"
+      ],
+      "summary": "利用休整叠层建立经济，再把多出的资源转换为前排、治疗与终端。",
+      "operation": [
+        "前期先用可用强牌保血，二本渡桥可先拿；不是拿到远见就能省略阻挡。",
+        "三本空弦与渡桥互相配合，开远见并补伤害；卡池不支持时不强凑纯远见。",
+        "四本寒檀和场面质量优先；当前连漏则先补坚守、治疗或协防。",
+        "稳定后五本找纯烬艾雅法拉、黍等合适支援；五本晋升奖励可争取逻各斯。",
+        "六阶逻各斯是后期输出与获得时收益，没来之前依旧用远见加主阵容混编。",
+        "后期购买把经济转为精锐和输出，别只追求远见层数；每回合结算前核对资金处理。"
+      ],
+      "equipment": [
+        "防护和回转装备按实际终端分配；转职装备须有同构体。"
+      ],
+      "positioning": [
+        "渡桥、空弦等对准需要叠层的人；远见经济链不能占掉所有阻挡位置。"
+      ],
+      "limits": [
+        "作者展示的高额资金来自特定层数与来牌，不是固定收入。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "远见经济主轴：互叠、稳场与逻各斯",
+          "sources": [
+            "S32"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "利用休整叠层建立经济，再把多出的资源转换为前排、治疗与终端。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S32",
+          "locator": "01:54–02:45叠层；04:39–08:38运营"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R23",
+      "title": "精准主轴：空弦过渡与鸿雪终端",
+      "family": "精准混编",
+      "source_ids": [
+        "S34"
+      ],
+      "core_operators": [
+        "空弦",
+        "霍尔海雅",
+        "鸿雪",
+        "迷迭香"
+      ],
+      "covenants": [
+        "精准"
+      ],
+      "summary": "以精准输出为主，主动补足治疗和阻挡，再向鸿雪、迷迭香或蕾缪安升级。",
+      "operation": [
+        "低阶有精准可留，但开局同时需要前排；不为了双精准卖掉唯一阻挡。",
+        "三本重点空弦、伺夜等，补蛇屠箱、治疗或不屈，空弦可顺带接远见经济。",
+        "四本提升主输出与前排质量，霍尔海雅补精准/奥术双轴；晋升奖励有鸿雪可拿。",
+        "稳场后五本找鸿雪、迷迭香；没来时继续用已有精锐输出，不把随机寻找当定向。",
+        "后期蕾缪安或转职外援承担终端，叠层已够时才能撤下空弦等过渡。",
+        "对空、重甲和生存缺口分别补卡，精准人数多不代表阵容没有弱点。"
+      ],
+      "equipment": [
+        "承曦格雷伊取得的精准狙击镜可用于输出；同构体加镜才形成精准转职。"
+      ],
+      "positioning": [
+        "射程与前排接敌点重合，至少保留稳定奶位；避免输出全部暴露给远程敌人。"
+      ],
+      "limits": [
+        "当前卡池里的本家归属和作者借人建议须分开核对。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "精准主轴：空弦过渡与鸿雪终端",
+          "sources": [
+            "S34"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "以精准输出为主，主动补足治疗和阻挡，再向鸿雪、迷迭香或蕾缪安升级。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S34",
+          "locator": "01:42–03:07叠层；03:07–06:21运营；06:21–08:44装备终端"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R24",
+      "title": "变形者伊比利亚：精奥聚合与迅捷分岔",
+      "family": "伊比利亚",
+      "source_ids": [
+        "S35",
+        "S40",
+        "S59"
+      ],
+      "core_operators": [
+        "旅骨",
+        "海沫",
+        "霍尔海雅",
+        "蓝毒",
+        "棘刺"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "精准",
+        "奥术",
+        "聚合"
+      ],
+      "summary": "利用转职把旅骨售价链、霍尔海雅叠层和蓝毒输出连起来；是否转迅捷由引星棘刺的取得与层数决定。",
+      "operation": [
+        "前期优先本家与强牌保血，约第五轮三本是菱歌233的示例；本家没来时使用伊桑或寻呼模块的实际可用机会。",
+        "三本旅骨、海沫是主要目标，三连碰霍尔海雅/流明/温蒂/华法琳；有球和精准狙击镜时先给海沫精准转。",
+        "旅骨朝海沫叠伊比利亚与精准，空弦可补三精准；准备转职的奥术法阵、骨刺刀看到后按预算留取。",
+        "升四精锐核心，第二个球可给霍尔海雅伊比利亚转，搭流明或纯烬艾雅法拉补聚合。球的取得回合以本局策略说明为准。",
+        "菱歌233的终局用精准转棘刺，并回收海沫的球给蓝毒转奥术，目标六伊三精准三奥三聚合；实际核算席位与装备，未达成前不显示已激活。",
+        "白绮Infinity允许引星棘刺早到且迅捷已积累时转迅捷；菱歌233偏留精奥，不建议额外追引星棘刺。两个终局不同时强求。"
+      ],
+      "equipment": [
+        "精准狙击镜、奥术法阵、伊比利亚骨刺刀配同构体；蓝毒可进一步用动能轰击弩。",
+        "普通棘刺用迅捷作战粮帮助暖机是回转选择，不会自动成为迅捷干员。"
+      ],
+      "positioning": [
+        "休整结束前旅骨面对高售价海沫；战斗时确保霍尔海雅能开技、治疗覆盖蓝毒与前排。"
+      ],
+      "limits": [
+        "精奥聚合目标组合需要多个转职和高阶牌，非普通无球伊比利亚路线。",
+        "S59不强依赖变形者的精准伊分支可以独立使用，见作者变体。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "白绮Infinity",
+        "菱歌233",
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "留五精奥聚合",
+          "sources": [
+            "S40"
+          ],
+          "authors": [
+            "菱歌233"
+          ],
+          "detail": "菱歌233：明确分配转职球给海沫、霍尔海雅、棘刺/蓝毒。"
+        },
+        {
+          "name": "精奥稳血或迅捷上限",
+          "sources": [
+            "S35"
+          ],
+          "authors": [
+            "白绮Infinity"
+          ],
+          "detail": "白绮Infinity：看引星棘刺到手时间和已有层数再切。"
+        },
+        {
+          "name": "无固定策略精准伊",
+          "sources": [
+            "S59"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "晓杰425：旅骨空弦双精准起步，后期外援转职为可选，不预设多个球。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S35",
+          "locator": "00:30–04:54单卡；04:54–06:16运营装备；简介"
+        },
+        {
+          "source": "S40",
+          "locator": "00:00–03:22解说；01:10/02:50图解；20:00实战帧"
+        },
+        {
+          "source": "S59",
+          "locator": "00:00–08:21音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R25",
+      "title": "谢拉格与炎双六羁绊探索",
+      "family": "谢拉格 / 炎",
+      "source_ids": [
+        "S41"
+      ],
+      "core_operators": [
+        "耶拉",
+        "灵知",
+        "仇白",
+        "黍",
+        "缪尔赛思"
+      ],
+      "covenants": [
+        "谢拉格",
+        "炎"
+      ],
+      "summary": "高转职需求的双核心实验；作者明确该视频素材未通关，保留研究记录，不列入默认推荐。",
+      "operation": [
+        "只在谢拉格和炎均可用时讨论；变形者提供初始转职途径。",
+        "前期三本耶拉取得谢拉格不融冰，矩等承担过渡；没有稳场能力则放弃双六目标。",
+        "四本用灵知、仇白与前排治疗稳场，先三谢/三炎及小盟约。",
+        "五本找黍、老鲤等，本家输出与经济先成立；不要为了八人口双六拆掉治疗。",
+        "额外同构体或调和到位后，逐项计算双六人数与装备位；未取得不能宣称阵容成型。",
+        "找不到缪尔赛思或所需转职时回到已有单主轴，不能继续投入全部资金追实验。"
+      ],
+      "equipment": [
+        "谢拉格不融冰、炎国短刀与额外同构体缺一不可。"
+      ],
+      "positioning": [
+        "双大羁绊挤占席位，先保住阻挡、治疗与输出射程。"
+      ],
+      "limits": [
+        "作者在00:00–00:28说明素材未通关；本库不把其标题当成功复现。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "experimental",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "谢拉格与炎双六羁绊探索",
+          "sources": [
+            "S41"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "高转职需求的双核心实验；作者明确该视频素材未通关，保留研究记录，不列入默认推荐。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S41",
+          "locator": "00:00–00:28未通关声明；03:55–11:04运营与条件"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R26",
+      "title": "聚合坚守伊比利亚：生存兜底",
+      "family": "伊比利亚",
+      "source_ids": [
+        "S42",
+        "S74"
+      ],
+      "core_operators": [
+        "旅骨",
+        "海沫",
+        "流明",
+        "温蒂",
+        "纯烬艾雅法拉"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "聚合",
+        "坚守"
+      ],
+      "summary": "围绕持续输出需要时间这一条件，先建售价链，再用聚合与坚守延长输出窗口。",
+      "operation": [
+        "先三伊比利亚与可靠前排，升三寻找旅骨、海沫、蓝毒；瑰盐可以暂时补治疗。",
+        "旅骨对高售价海沫叠层，前排质量不够先补，不能为多只海沫丢掉挡人能力。",
+        "四本流明与温蒂，优先生存和质量；晋升奖励有塞雷娅或纯烬艾雅法拉可选。",
+        "五本寻找纯烬艾雅法拉与棘刺，按当前目标取舍聚合层数和输出；没找到仍以现有治疗稳场。",
+        "后期六伊配聚合、坚守，转职充足再补别的盟约；若缺Boss伤害，必须说明团队分工或补输出终端。",
+        "古怪洋葱头的罗素分支偏三/四本兜底，瑰盐与流明保二聚合，蓝毒承担对单。先坚守后六伊，或精准起步较早六伊，是两个来牌分支；不要求升五。"
+      ],
+      "equipment": [
+        "聚合急救箱、坚守盾牌加同构体可补户口；蓝毒保留有效输出装备。"
+      ],
+      "positioning": [
+        "温蒂等拖住敌人，流明覆盖被攻击区域；奶量无法替代正确接敌。"
+      ],
+      "limits": [
+        "晓杰425明确偏联机兜底，能扛道中不等于能独立击败最终Boss。",
+        "罗素分支对低重量怪海、折射有缺口；讨论中的属性叠加不能直接写成实测伤害倍率。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425",
+        "古怪洋葱头"
+      ],
+      "variants": [
+        {
+          "name": "聚合伊比利亚通用",
+          "sources": [
+            "S42"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "四本补流明温蒂，稳场后五本补输出与治疗。"
+        },
+        {
+          "name": "罗素低本兜底",
+          "sources": [
+            "S74"
+          ],
+          "authors": [
+            "古怪洋葱头"
+          ],
+          "detail": "低本蓝毒旅骨配瑰盐流明，优先聚合；坚守/精准随来牌切换，不强追高阶或转职。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S42",
+          "locator": "00:00–09:25"
+        },
+        {
+          "source": "S74",
+          "locator": "00:00–05:40单卡；09:13–21:59分支；22:00–35:06定位与组成；10:00/30:00实战帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R27",
+      "title": "不屈灵巧大丑：砾叠层与Boss站位",
+      "family": "森蚺大丑",
+      "source_ids": [
+        "S44"
+      ],
+      "core_operators": [
+        "“暴躁铁皮”",
+        "砾",
+        "云迹",
+        "承曦格雷伊",
+        "空弦"
+      ],
+      "covenants": [
+        "不屈",
+        "灵巧",
+        "精准"
+      ],
+      "summary": "二本围绕砾、云迹和电话养大丑，在后期把叠层收益转为有效接敌与装备输出。",
+      "operation": [
+        "需要森蚺策略或已确认取得大丑，且砾、云迹等关键牌可用；第二回合升二是作者示例。",
+        "二本找砾、云迹、承曦格雷伊和简易通讯机，奇迹/远见可用则补经济；没电话时先保场。",
+        "电话用于复制大丑须满足当时卡池与同盟约筛选条件；取得精锐大丑后再考虑升三。",
+        "三本空弦、风丸；有凯瑟琳可取装备，夜莺可补协防/聚合。砾叠不屈仍需实际倒下及触发条件。",
+        "关键精锐后上五找装备；精准狙击镜、动能单手弩等依获得条件配置。",
+        "Boss战重排站位，让大丑接触目标且处于灵巧范围；作者示例因人形Boss路径判断错误失利。"
+      ],
+      "equipment": [
+        "简易通讯机优先服务大丑精锐；后期伤害装备以已经得到的为准。",
+        "谢拉格不融冰等控制装备是来牌补充，不能默认本局都有。"
+      ],
+      "positioning": [
+        "大丑友伤、灵巧覆盖和Boss移动路径同时检查。",
+        "别只看输出面板：打不到目标或被控住时需要改变位置和支援。"
+      ],
+      "limits": [
+        "作者的“200层以后没有打不过的怪”不作为事实；保留失败复盘。",
+        "精锐时间可早可晚，不能把第5或第9回合电话数量作为保证。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "空气在说话"
+      ],
+      "variants": [
+        {
+          "name": "不屈灵巧大丑：砾叠层与Boss站位",
+          "sources": [
+            "S44"
+          ],
+          "authors": [
+            "空气在说话"
+          ],
+          "detail": "二本围绕砾、云迹和电话养大丑，在后期把叠层收益转为有效接敌与装备输出。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S44",
+          "locator": "00:00–05:33运营；06:00–08:52站位失误与展示"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R28",
+      "title": "聚合莱塔尼亚：双羊与生存过渡",
+      "family": "莱塔尼亚",
+      "source_ids": [
+        "S50",
+        "S51",
+        "S62"
+      ],
+      "core_operators": [
+        "车尔尼",
+        "黑键",
+        "艾雅法拉",
+        "纯烬艾雅法拉"
+      ],
+      "covenants": [
+        "莱塔尼亚",
+        "聚合"
+      ],
+      "summary": "在已有莱塔过渡基础上优先补治疗与站场；有精奥时可升级输出，没有时定位为联机生存支援。",
+      "operation": [
+        "前期三莱塔尼亚起步，车尔尼、复奏、地灵等按来牌组成；另外补可用治疗。",
+        "三本稳住前排与两聚合，不因追双羊忽略低阶质量；需要对空时加相应输出。",
+        "四本寻找黑键、艾雅法拉，流明或夜莺等补治疗；纯烬艾雅法拉只能通过五阶获取途径取得。",
+        "稳定后五本寻找纯烬艾雅法拉，将其治疗与叠层放到核心位置；不把其他奶全卖掉再赌。",
+        "有精准/奥术叠层和转职时可接R08精奥莱塔；否则保持聚合生存路线，明确Boss输出缺口。",
+        "终局提高关键干员质量，再根据敌人换输出与防护；S50/S51只提供后期实战例证，不补造其前期运营。"
+      ],
+      "equipment": [
+        "莱塔尼亚小鼓加同构体用于转职，车尔尼可提供小鼓。"
+      ],
+      "positioning": [
+        "治疗范围覆盖承伤位和输出；莱塔召唤物的出现不保证每路都能阻挡。"
+      ],
+      "limits": [
+        "S62偏兜底；S50/S51带精奥的表现不能当作低输出聚合版的保证。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "襄阳万俟名",
+        "一只傲娇兔",
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "聚合兜底运营",
+          "sources": [
+            "S62"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "晓杰425：先三莱塔与生存，中后期补双羊。"
+        },
+        {
+          "name": "聚合莱塔终局",
+          "sources": [
+            "S50"
+          ],
+          "authors": [
+            "襄阳万俟名"
+          ],
+          "detail": "襄阳万俟名：后期Boss画面，非完整教学。"
+        },
+        {
+          "name": "精奥聚合终局",
+          "sources": [
+            "S51"
+          ],
+          "authors": [
+            "一只傲娇兔"
+          ],
+          "detail": "一只傲娇兔：带精奥的终局实战，与纯聚合区分。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S50",
+          "locator": "00:03–02:58关键帧"
+        },
+        {
+          "source": "S51",
+          "locator": "00:03–02:09关键帧及简介"
+        },
+        {
+          "source": "S62",
+          "locator": "00:00–08:38音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R29",
+      "title": "突袭主轴：瑕光赫德雷与高阶替换",
+      "family": "突袭混编",
+      "source_ids": [
+        "S56"
+      ],
+      "core_operators": [
+        "瑕光",
+        "赫德雷",
+        "伊桑",
+        "史尔特尔"
+      ],
+      "covenants": [
+        "突袭",
+        "卡西米尔"
+      ],
+      "summary": "通过中阶突袭与再部署获取层数，主动补对空、费用和门前阻挡，再换高阶终端。",
+      "operation": [
+        "低阶过渡后升三，优先瑕光与可用突袭单位；卡西米尔不可用时此分支缺关键支点。",
+        "先两突袭配前排治疗，另补对空；不要把全近战突袭当作所有敌人通解。",
+        "四本赫德雷是重点，保持再部署所需费用；伊桑可用于群怪对策或出售找牌。",
+        "本家需要时补玛恩纳，突袭转职必须有同构体和突袭手雷；五阶贝洛内可作为来牌过渡。",
+        "稳定后五本碰六或上六寻找史尔特尔、耀骑士临光等终端。",
+        "在高阶出售伊桑时先核对当前人数最多盟约与等级；不承诺固定产出某位六阶。"
+      ],
+      "equipment": [
+        "突袭手雷加同构体；回转和费用相关装备按实际缺口决定。"
+      ],
+      "positioning": [
+        "门前留不会随突袭离开的阻挡；注意无人机和突袭目标选择。"
+      ],
+      "limits": [
+        "原作者对ban位的说法只用于其分支，本局可用池优先。",
+        "再部署叠层不免费，需要真实触发与费用。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "突袭主轴：瑕光赫德雷与高阶替换",
+          "sources": [
+            "S56"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "通过中阶突袭与再部署获取层数，主动补对空、费用和门前阻挡，再换高阶终端。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S56",
+          "locator": "00:00–11:00音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R30",
+      "title": "远见卡西米尔：经济加速的再部署线",
+      "family": "卡西米尔",
+      "source_ids": [
+        "S58"
+      ],
+      "core_operators": [
+        "历阵锐枪芬",
+        "空弦",
+        "玛恩纳",
+        "寒檀"
+      ],
+      "covenants": [
+        "卡西米尔",
+        "远见"
+      ],
+      "summary": "用远见改善找牌与升本经济，卡西米尔补地面能力；前中期不追求六卡同时到场。",
+      "operation": [
+        "开局保血后升三，找历阵锐枪芬、空弦，配渡桥等开远见。",
+        "砾、瑕光等补三卡西米尔；空弦等处理对空与输出，不能全堆经济牌。",
+        "四本找玛恩纳、远牙和寒檀，先把本轮战力补齐。",
+        "有关键精锐与焰尾等衔接后再上五，继续提升质量或争取六阶。",
+        "逻各斯、帕拉斯与缪尔赛思是后期可选，拿到后才规划转职。",
+        "将经济用于完成阵容；七回合六本等作者顺局现象不作为目标时限。"
+      ],
+      "equipment": [
+        "卡西米尔竞技旗配同构体可转外援；玛恩纳回转装备与防护按实战选择。"
+      ],
+      "positioning": [
+        "后排输出避开范围炮火，前排不能因调换远见叠层位置而漏路。"
+      ],
+      "limits": [
+        "远见经济与原R02低本刷砾不是同一套时间表，禁止拼接为同时完成的开局。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "远见卡西米尔：经济加速的再部署线",
+          "sources": [
+            "S58"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "用远见改善找牌与升本经济，卡西米尔补地面能力；前中期不追求六卡同时到场。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S58",
+          "locator": "00:00–07:05音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R31",
+      "title": "远见伊比利亚：售价链接经济链",
+      "family": "伊比利亚",
+      "source_ids": [
+        "S60"
+      ],
+      "core_operators": [
+        "旅骨",
+        "海沫",
+        "空弦",
+        "寒檀",
+        "棘刺"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "远见"
+      ],
+      "summary": "三本先连接旅骨海沫和空弦远见，用后续经济获得棘刺与高阶外援。",
+      "operation": [
+        "先稳场到三本，旅骨、海沫、空弦是主要目标，补蓝毒或其他本家输出。",
+        "第二远见有则激活，寒檀可经三本晋升奖励取得；未碰到时使用当前等级可买成员。",
+        "三伊比利亚和远见链建立、前排奶量足够后再升本。",
+        "队伍吃紧留四本提流明、温蒂、寒檀质量；顺畅则上五找棘刺和适配奶位。",
+        "五本晋升奖励或六本取得逻各斯；可以保留精锐寒檀/空弦作为未到终端时的方案。",
+        "转职到位可给逻各斯伊比利亚户口，否则按普通外援使用，不虚算六伊。"
+      ],
+      "equipment": [
+        "伊比利亚骨刺刀加同构体用于后期外援；萨尔贡浓茶按技能暖机需要安排。"
+      ],
+      "positioning": [
+        "旅骨面向高售价海沫，远见链另核对朝向；避免两条休整链争同一格造成失效。"
+      ],
+      "limits": [
+        "原视频口述部分阶数与转写有误，已按规程数据库将棘刺列五阶、逻各斯列六阶。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "远见伊比利亚：售价链接经济链",
+          "sources": [
+            "S60"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "三本先连接旅骨海沫和空弦远见，用后续经济获得棘刺与高阶外援。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S60",
+          "locator": "00:00–10:00音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R32",
+      "title": "莱塔尼亚与伊比利亚：转职双核心",
+      "family": "莱塔尼亚 / 伊比利亚",
+      "source_ids": [
+        "S61"
+      ],
+      "core_operators": [
+        "旅骨",
+        "蓝毒",
+        "车尔尼",
+        "黑键",
+        "纯烬艾雅法拉"
+      ],
+      "covenants": [
+        "伊比利亚",
+        "莱塔尼亚"
+      ],
+      "summary": "低本伊比利亚与莱塔混编过渡，利用小鼓或骨刺刀转职连接两套效果。",
+      "operation": [
+        "三本先找旅骨、蓝毒与三伊比利亚；莱塔侧车尔尼、复奏、地灵按实际来牌配齐。",
+        "车尔尼提供小鼓，有同构体才可给蓝毒或旅骨转莱塔；不要只拿小鼓就把户口算上。",
+        "压力大时四本找黑键、艾雅法拉、流明；能稳血则五本找棘刺与纯烬艾雅法拉。",
+        "先完成能作战的三加三组合，再考虑六人档；不得因为视频提出双六就省略席位核算。",
+        "五本晋升奖励或六本争取缪尔赛思增加转职，并按来牌补锏、引星棘刺等终端。",
+        "Boss前在已有层数足够时把纯叠层挂件换成有效输出；保留必要治疗和实际激活人数。"
+      ],
+      "equipment": [
+        "莱塔尼亚小鼓、伊比利亚骨刺刀加同构体，转职方向取决于已经取得的装备。"
+      ],
+      "positioning": [
+        "旅骨休整朝向与召唤物接敌区域分开核对；不能假定召唤物永远替代前排。"
+      ],
+      "limits": [
+        "需要多个转职才达到理想双核心，来牌差时回到单主轴。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "莱塔尼亚与伊比利亚：转职双核心",
+          "sources": [
+            "S61"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "低本伊比利亚与莱塔混编过渡，利用小鼓或骨刺刀转职连接两套效果。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S61",
+          "locator": "00:00–10:33音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R33",
+      "title": "奇迹卡西米尔：刷新经济与再部署",
+      "family": "卡西米尔",
+      "source_ids": [
+        "S63"
+      ],
+      "core_operators": [
+        "砾",
+        "瑕光",
+        "云迹",
+        "焰尾"
+      ],
+      "covenants": [
+        "卡西米尔",
+        "奇迹"
+      ],
+      "summary": "把奇迹的刷新收益接入卡西米尔寻找关键牌的过程，仍以砾、瑕光和实际战力为基础。",
+      "operation": [
+        "低阶保血后尽早三本找瑕光，配三卡西米尔；星极、吉星、复奏、云迹按来牌补奇迹和对空。",
+        "三本晋升奖励优先玛恩纳/远牙，未出可用流明或赫德雷等稳场；不要把钱全花在刷新而不买战力。",
+        "四本玛恩纳、赫德雷提升，安洁莉娜与云迹叠奇迹；关键精锐到位后才进一步升本。",
+        "五本薇薇安娜、焰尾或其他适配奇迹补质量；先保证当前前排、治疗和对空。",
+        "后期耀骑士临光及转职外援依实际获得决定，奇迹使找牌更省但不保证抽中。",
+        "如果奇迹链迟迟不成立，保留卡西米尔主体，转回已经成立的突袭/不屈线路。"
+      ],
+      "equipment": [
+        "卡西米尔竞技旗、回转装与同构体依终端选择，不为转职提前透支保血资金。"
+      ],
+      "positioning": [
+        "安排好需要倒下与需要存活的单位，检查整备区拉人的顺序。"
+      ],
+      "limits": [
+        "晓杰425此分支用砾S2保阻挡，与澈澈Fault的砾S1卸模叠不屈不同。",
+        "奇迹的随机收益不等于必定免费刷新。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "奇迹卡西米尔：刷新经济与再部署",
+          "sources": [
+            "S63"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "把奇迹的刷新收益接入卡西米尔寻找关键牌的过程，仍以砾、瑕光和实际战力为基础。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S63",
+          "locator": "02:24–03:46技能；04:02–09:01运营"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R34",
+      "title": "灵巧主轴：二本云迹与四本华法琳",
+      "family": "灵巧混编",
+      "source_ids": [
+        "S55"
+      ],
+      "core_operators": [
+        "云迹",
+        "承曦格雷伊",
+        "华法琳",
+        "佩佩"
+      ],
+      "covenants": [
+        "灵巧",
+        "精准"
+      ],
+      "summary": "先在低本形成云迹叠层与可用战力，再通过华法琳和高阶灵巧升级。",
+      "operation": [
+        "二本找云迹与另一灵巧干员，承曦格雷伊可同时连接精准；先补前排。",
+        "云迹优先质量，已有对子多时可留多只，但不能把两只精锐当作保证。",
+        "场面稳定后上四找华法琳，配合需要开技的输出；必要时用伊桑出售找牌。",
+        "五阶佩佩、凛御银灰或隐德来希来则按缺口替换，不要求全部同时取得。",
+        "后期帕拉斯补休整叠层，终端或转职外援按实际卡池与已有层数决定。",
+        "云迹不可用时此低本起手不成立，应切已有其他叠层主轴。"
+      ],
+      "equipment": [
+        "灵巧涡轮手套加同构体才是转职，精准狙击镜按输出条件使用。"
+      ],
+      "positioning": [
+        "检查灵巧当前覆盖范围，别把核心输出摆在增益范围之外；华法琳与受益对象配合。"
+      ],
+      "limits": [
+        "原作者提到部分不确定技能编号，不能据转写替用户强改。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "灵巧主轴：二本云迹与四本华法琳",
+          "sources": [
+            "S55"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "先在低本形成云迹叠层与可用战力，再通过华法琳和高阶灵巧升级。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S55",
+          "locator": "00:00–07:03音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R35",
+      "title": "奥术主轴：低阶过渡与五阶换核",
+      "family": "奥术混编",
+      "source_ids": [
+        "S54"
+      ],
+      "core_operators": [
+        "Miss.Christine",
+        "霍尔海雅",
+        "溯光星源",
+        "圣聆初雪"
+      ],
+      "covenants": [
+        "奥术"
+      ],
+      "summary": "用低阶奥术过渡，再逐步接高阶输出；升本速度取决于前排和队伍是否能承受。",
+      "operation": [
+        "卡达或Miss.Christine起步时仍要配前排与奶；纯奥术牌不能替代阻挡。",
+        "三本稳质量，能承担过渡才提前四本，不能只为找四阶全卖场上。",
+        "四本优先霍尔海雅，维伊等依卡池补位；按已有强牌替换低阶，不是先卖后找。",
+        "稳定后五本找溯光星源、圣聆初雪或薇薇安娜等适配成员，缺哪类功能补哪类。",
+        "逻各斯、夕、塔露拉等六阶是后续选择，没来则提升当前五阶。",
+        "若敌人为高法抗或折射，调整伤害和控制；作者口述遇敌概率不作统计事实。"
+      ],
+      "equipment": [
+        "奥术法阵配同构体可补户口，优先资金满足当前战力。"
+      ],
+      "positioning": [
+        "叠层需要战斗技能触发的成员保持接敌与治疗；不要把全部术师堆在最前。"
+      ],
+      "limits": [
+        "各核心家族可用性决定终端，不能把“纯奥术”理解为必须排满奥术。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "奥术主轴：低阶过渡与五阶换核",
+          "sources": [
+            "S54"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "用低阶奥术过渡，再逐步接高阶输出；升本速度取决于前排和队伍是否能承受。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S54",
+          "locator": "00:00–11:22音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
+    },
+    {
+      "id": "R36",
+      "title": "坚守主轴：三本前排与五本塞雷娅",
+      "family": "坚守混编",
+      "source_ids": [
+        "S57"
+      ],
+      "core_operators": [
+        "蛇屠箱",
+        "青枳",
+        "罗比菈塔",
+        "塞雷娅"
+      ],
+      "covenants": [
+        "坚守"
+      ],
+      "summary": "低中阶建立阻挡和生存，再以塞雷娅及外援补输出，适合作为来牌不齐时的过渡框架。",
+      "operation": [
+        "起步先保血，三本找蛇屠箱、青枳、罗比菈塔等可用坚守。",
+        "配对空输出与治疗，不能因为三坚守已亮就忽略无人机和多路怪。",
+        "四本依据来牌选涤火杰西卡、温蒂或其他主阵容，先补质量再升五。",
+        "五本塞雷娅改善生存和休整联动；没有她时用已有精锐前排，不空卖等卡。",
+        "后期帕拉斯、协防及输出外援按可用池加入；坚守本身不能替代Boss输出。",
+        "有同构体和坚守盾牌，可为隐德来希等外援补坚守；先算实际户口再调整人数。"
+      ],
+      "equipment": [
+        "坚守盾牌加同构体才能转职；输出装优先给真正承担Boss伤害的成员。"
+      ],
+      "positioning": [
+        "核对青枳与塞雷娅的朝向，把核心输出留在治疗覆盖范围内。"
+      ],
+      "limits": [
+        "纯生存面板不等于通关；技能与叠层精确数值按当前数据库或游戏文本。"
+      ],
+      "foundation": [
+        "升本必须保留下一轮战力；晋升奖励高一阶不等于当前商店能常规招募。",
+        "具体禁选按本局卡池判断，不能从作者的单局禁选推出全局必然可玩。"
+      ],
+      "validation": "音轨转写、作者说明与关键画面交叉整理；没有由整理者进行游戏复现或胜率测量。",
+      "evidence_status": "reviewed_guide",
+      "authors": [
+        "晓杰425"
+      ],
+      "variants": [
+        {
+          "name": "坚守主轴：三本前排与五本塞雷娅",
+          "sources": [
+            "S57"
+          ],
+          "authors": [
+            "晓杰425"
+          ],
+          "detail": "低中阶建立阻挡和生存，再以塞雷娅及外援补输出，适合作为来牌不齐时的过渡框架。"
+        }
+      ],
+      "evidence": [
+        {
+          "source": "S57",
+          "locator": "00:00–11:09音轨；关键帧"
+        }
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ"
     }
   ],
   "foundations": [
@@ -1417,6 +4965,681 @@
     "实战例证只能佐证出现过的局面，不自动生成开局运营。",
     "遇到版本变化、来源冲突或待核验机制时说明证据，不能输出必过、必出或100%复活承诺。",
     "四本常规刷新四阶及以下；四本碰五、五本碰六与商店直刷不同。",
-    "本技能提供建议，不操控游戏或修改助手应用。"
-  ]
+    "本技能提供建议，不操控游戏或修改助手应用。",
+    "R25为作者承认素材未通关的探索，不进入默认推荐；只在用户明确研究时讨论。",
+    "技能按具体路线及作者分支引用，不能把泛用S1/S2/S3偏好覆盖到所有流派。",
+    "模块来源只用于对应机制或意见；不据通用图表把作者加入别人的原创路线署名。"
+  ],
+  "support_modules": [
+    {
+      "id": "M01",
+      "name": "聚合生存组件",
+      "sources": [
+        "S29"
+      ],
+      "summary": "流明、纯烬艾雅法拉等配合主阵容取得治疗与庇护；按主轴升本，不为遥强行上六。聚合不能替代实际Boss输出。",
+      "authors": [
+        "晓杰425"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S29",
+          "locator": "02:51–04:26叠层；04:26–06:27主阵容配合"
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "name": "独行开局分流",
+      "sources": [
+        "S33"
+      ],
+      "summary": "艾丝黛尔偏前排，水灯心需要前排且可接灵巧/维，地灵接莱塔。选择先看禁选和来牌；独行不是跨局固定排名。",
+      "authors": [
+        "晓杰425"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S33",
+          "locator": "00:00–06:20"
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "name": "休整、战斗与经济触发",
+      "sources": [
+        "S38",
+        "S71"
+      ],
+      "summary": "白樱iridescent将获得、出售、休整结束、战斗技能触发分开。渡桥/空弦和青枳方向不同；塞雷娅只复制前格休整结束特质。温蒂、星极、伊桑、吉星等分别服务资金、晋升、检索，不混作无限刷新。数值先核对普通/精锐状态。",
+      "authors": [
+        "白樱iridescent"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S38",
+          "locator": "00:14–02:34叠层图；02:34–06:35经济图；06:35–07:36转职"
+        },
+        {
+          "source": "S71",
+          "locator": "00:00–06:23音轨；分类图"
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "name": "技能分支与作者差异",
+      "sources": [
+        "S70",
+        "S22",
+        "S23",
+        "S49",
+        "S63",
+        "S72"
+      ],
+      "summary": "技能绑定路线而非给干员一个全局答案。白樱S70泛用旅骨偏S1，后续S23P2三本伊改S2；棘刺S2用于过渡，与其他路线S3主C不同。澈澈Fault砾S1卸模追循环，晓杰425奇迹卡砾S2保阻挡。白樱泛用白铁S3/鸿雪S2；凌光直上星墟的萨尔贡方案偏卡涅利安、异客、鸿雪、真言S3。没有核实的模组不补猜。",
+      "authors": [
+        "白樱iridescent",
+        "澈澈Fault",
+        "晓杰425",
+        "凌光直上星墟"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S70",
+          "locator": "00:00–06:11音轨；技能页面帧"
+        },
+        {
+          "source": "S22",
+          "locator": "P1 00:00–04:50；P2 00:00–01:08技能补充"
+        },
+        {
+          "source": "S23",
+          "locator": "P1 00:00–03:05；P2 00:00–00:56技能补充"
+        },
+        {
+          "source": "S49",
+          "locator": "00:35–03:45前中期；03:45–07:55后期；07:55–09:01装备"
+        },
+        {
+          "source": "S63",
+          "locator": "02:24–03:46技能；04:02–09:01运营"
+        },
+        {
+          "source": "S72",
+          "locator": "00:00–00:37音轨及技能画面"
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "name": "道中与Boss站位",
+      "sources": [
+        "S66",
+        "S43",
+        "S44",
+        "S48"
+      ],
+      "summary": "爆爆-明日方舟按地图区分道中和Boss阶段，奶覆盖输出与重装，输出朝向和Boss路径相交。大丑失败例证说明有伤害面板仍可能打不到Boss或被束缚。原图不提供任意干员通用射程，必须结合当前地图、技能、灵巧覆盖和友伤调整，不能自动生成固定格坐标。",
+      "authors": [
+        "爆爆-明日方舟",
+        "A阿戈尔路灯管理",
+        "空气在说话",
+        "苏白Seb"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S66",
+          "locator": "00:03、00:06、00:12、00:19、00:25、00:32、00:38地图帧"
+        },
+        {
+          "source": "S43",
+          "locator": "00:28–06:28教学；06:28–12:14实战"
+        },
+        {
+          "source": "S44",
+          "locator": "00:00–05:33运营；06:00–08:52站位失误与展示"
+        },
+        {
+          "source": "S48",
+          "locator": "00:00–04:53前中期；06:30–10:03普通Boss；10:05–11:34隐藏Boss失败复盘"
+        }
+      ]
+    },
+    {
+      "id": "M06",
+      "name": "转职条件与获取",
+      "sources": [
+        "S67",
+        "S38"
+      ],
+      "summary": "一页知粥Bella与白樱iridescent：同构体和对应装备共同提供新户口，只有小鼓/骨刺刀不算转职。六阶商店、缪尔赛思以及实际策略是不同来源，前期不能默认高阶球已到手。转职改变盟约计数，但叠层是否触发仍看干员特质。",
+      "authors": [
+        "一页知粥Bella",
+        "白樱iridescent"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S67",
+          "locator": "00:03、00:06、00:10、00:12图表"
+        },
+        {
+          "source": "S38",
+          "locator": "00:14–02:34叠层图；02:34–06:35经济图；06:35–07:36转职"
+        }
+      ]
+    },
+    {
+      "id": "M07",
+      "name": "主副盟约配对意见表",
+      "sources": [
+        "S65"
+      ],
+      "summary": "肥美尾巴奖励我的表格建议叙拉古接精准、萨尔贡接精准或灵巧、谢拉格接迅捷或灵巧等。其“伊比利亚刚需迅捷”属于作者偏好，与三本伊及精奥伊攻略不同；本库保留比较，不设全局硬性要求。",
+      "authors": [
+        "肥美尾巴奖励我"
+      ],
+      "game_version": "卫戍协议·规程·序列Ⅰ",
+      "evidence": [
+        {
+          "source": "S65",
+          "locator": "00:03、00:08、00:13图表"
+        }
+      ]
+    }
+  ],
+  "new_video_count": 54,
+  "new_route_count": 25,
+  "route_count": 36,
+  "default_route_count": 35,
+  "experimental_route_ids": [
+    "R25"
+  ],
+  "web_pages_used": [
+    {
+      "url": "https://www.bilibili.com/video/BV1BPWJ6yE3P/",
+      "kind": "已使用攻略",
+      "source_id": "S01"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1npWp6FEL7/",
+      "kind": "已使用攻略",
+      "source_id": "S02"
+    },
+    {
+      "url": "https://www.bilibili.com/opus/1268367330752069664",
+      "kind": "已使用攻略",
+      "source_id": "S03"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1vRWG64E8c/",
+      "kind": "已使用攻略",
+      "source_id": "S04"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1SNWe6gEvP/",
+      "kind": "已使用攻略",
+      "source_id": "S05"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1NGWe6iEkt/",
+      "kind": "已使用攻略",
+      "source_id": "S06"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1CwWW6aEjh/",
+      "kind": "已使用攻略",
+      "source_id": "S07"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1VfWH61E6B/",
+      "kind": "已使用攻略",
+      "source_id": "S08"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV11iWW6uE3k/",
+      "kind": "已使用攻略",
+      "source_id": "S09"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1X3WK6aE7u/",
+      "kind": "已使用攻略",
+      "source_id": "S10"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1jMWM6VE5n/",
+      "kind": "已使用攻略",
+      "source_id": "S11"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1N4Wb6DE9G/",
+      "kind": "已使用攻略",
+      "source_id": "S12"
+    },
+    {
+      "url": "https://www.douyin.com/video/7706460660900678938",
+      "kind": "已使用攻略",
+      "source_id": "S13"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1UhWW6kE6t/",
+      "kind": "已使用攻略",
+      "source_id": "S14"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1Y8Wt6fEe5/",
+      "kind": "已使用攻略",
+      "source_id": "S15"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1kPWW6cEHC/",
+      "kind": "已使用攻略",
+      "source_id": "S16"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BvWP6MEwG/",
+      "kind": "已使用攻略",
+      "source_id": "S17"
+    },
+    {
+      "url": "https://www.douyin.com/video/7706470460594903531",
+      "kind": "已使用攻略",
+      "source_id": "S18"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FnWn6XEA5/",
+      "kind": "已使用攻略",
+      "source_id": "S19"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1vFWs6XEtt/",
+      "kind": "已使用攻略",
+      "source_id": "S20"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FoWj6kEBs/",
+      "kind": "已使用攻略",
+      "source_id": "S21"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FHWX6GEh2/",
+      "kind": "已使用攻略",
+      "source_id": "S22"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1WGWr6UEhb/",
+      "kind": "已使用攻略",
+      "source_id": "S23"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1cTWW6FEAS/",
+      "kind": "已使用攻略",
+      "source_id": "S24"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV11CWx6GELy/",
+      "kind": "已使用攻略",
+      "source_id": "S25"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FiWb61EHu/",
+      "kind": "已使用攻略",
+      "source_id": "S26"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV19ZWG6sEv9/",
+      "kind": "已使用攻略",
+      "source_id": "S27"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1eZWG6sEZy/",
+      "kind": "已使用攻略",
+      "source_id": "S28"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV17EWT62EXq/",
+      "kind": "已使用攻略",
+      "source_id": "S29"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1kzWg6fEid/",
+      "kind": "已使用攻略",
+      "source_id": "S30"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1yBW26KEgb/",
+      "kind": "已使用攻略",
+      "source_id": "S31"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1iGWW6REU8/",
+      "kind": "已使用攻略",
+      "source_id": "S32"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1rzWg6fEh5/",
+      "kind": "已使用攻略",
+      "source_id": "S33"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1qnWT6LEaC/",
+      "kind": "已使用攻略",
+      "source_id": "S34"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1k1WW6AEx7/",
+      "kind": "已使用攻略",
+      "source_id": "S35"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1hBWX6hEub/",
+      "kind": "已使用攻略",
+      "source_id": "S36"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1JEWT62Emb/",
+      "kind": "已使用攻略",
+      "source_id": "S37"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1ZBW46eEdW/",
+      "kind": "已使用攻略",
+      "source_id": "S38"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1m1W864ErS/",
+      "kind": "已使用攻略",
+      "source_id": "S39"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1xdWV61Efg/",
+      "kind": "已使用攻略",
+      "source_id": "S40"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV19rWi6WEAJ/",
+      "kind": "已使用攻略",
+      "source_id": "S41"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1DpWy6BEGE/",
+      "kind": "已使用攻略",
+      "source_id": "S42"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1gEW96PEyR/",
+      "kind": "已使用攻略",
+      "source_id": "S43"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1o8WR6CErt/",
+      "kind": "已使用攻略",
+      "source_id": "S44"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV15QW966EJ3/",
+      "kind": "已使用攻略",
+      "source_id": "S45"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BpW86GEhi/",
+      "kind": "已使用攻略",
+      "source_id": "S46"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BPWH6pEow/",
+      "kind": "已使用攻略",
+      "source_id": "S47"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV12ZWP6pE7m/",
+      "kind": "已使用攻略",
+      "source_id": "S48"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1HpWR6JE7g/",
+      "kind": "已使用攻略",
+      "source_id": "S49"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1SzWn6zEZq/",
+      "kind": "已使用攻略",
+      "source_id": "S50"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV12hWg6NE8i/",
+      "kind": "已使用攻略",
+      "source_id": "S51"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1suWu6hEgm/",
+      "kind": "已使用攻略",
+      "source_id": "S52"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV14eWW66EfP/",
+      "kind": "已使用攻略",
+      "source_id": "S53"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1L8W36REfm/",
+      "kind": "已使用攻略",
+      "source_id": "S54"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1iXWG6ZELS/",
+      "kind": "已使用攻略",
+      "source_id": "S55"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1pjWu6dEkJ/",
+      "kind": "已使用攻略",
+      "source_id": "S56"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1iiWi6oExo/",
+      "kind": "已使用攻略",
+      "source_id": "S57"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1w8Wb6UE2A/",
+      "kind": "已使用攻略",
+      "source_id": "S58"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1E5WN6rEpR/",
+      "kind": "已使用攻略",
+      "source_id": "S59"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1EWW36fEZs/",
+      "kind": "已使用攻略",
+      "source_id": "S60"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1aZWg62E8X/",
+      "kind": "已使用攻略",
+      "source_id": "S61"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV12hWy6AE7f/",
+      "kind": "已使用攻略",
+      "source_id": "S62"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1ovWi6tECG/",
+      "kind": "已使用攻略",
+      "source_id": "S63"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1rtWi6AEua/",
+      "kind": "已使用攻略",
+      "source_id": "S64"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV15nWq6oEau/",
+      "kind": "已使用攻略",
+      "source_id": "S65"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1suWu6hE9c/",
+      "kind": "已使用攻略",
+      "source_id": "S66"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1J9Wt6VEBZ/",
+      "kind": "已使用攻略",
+      "source_id": "S67"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1WvWH6wEbd/",
+      "kind": "已使用攻略",
+      "source_id": "S68"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1xvWd6FE81/",
+      "kind": "已使用攻略",
+      "source_id": "S69"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1rwWH69E7B/",
+      "kind": "已使用攻略",
+      "source_id": "S70"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1KAWD62EDS/",
+      "kind": "已使用攻略",
+      "source_id": "S71"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1u8W26kEoy/",
+      "kind": "已使用攻略",
+      "source_id": "S72"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1sdWe6KEKn/",
+      "kind": "已使用攻略",
+      "source_id": "S73"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1H6Wd6dECX/",
+      "kind": "已使用攻略",
+      "source_id": "S74"
+    },
+    {
+      "url": "https://prts.wiki/index.php?oldid=450300",
+      "kind": "交叉核对",
+      "reference_id": "DB01"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1Dwc5z3ECA/",
+      "kind": "交叉核对",
+      "reference_id": "N01"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E7%BB%AEInfinity%20%E4%BC%8A%E6%AF%94%E5%88%A9%E4%BA%9A",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "白绮Infinity 伊比利亚"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8F%98%E5%BD%A2%E8%80%85%E9%9B%86%E7%BE%A4%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%20%E6%95%99%E5%AD%A6",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "变形者集群维多利亚 教学"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E8%BD%BB%E6%9D%BE800%E5%B1%82%20%E5%8F%99%E6%8B%89%E5%8F%A4",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "轻松800层 叙拉古"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%20%E8%A7%84%E7%A8%8B%20%E5%A4%8D%E5%A5%8F%20%E4%B8%80%E6%9C%AC",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议 规程 复奏 一本"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E8%A7%84%E7%A8%8B%E6%95%99%E5%AD%A6",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议规程教学"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E5%A4%8D%E5%A5%8F%E4%B8%80%E6%9C%AC%E6%B5%81",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议复奏一本流"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E8%B0%A2%E6%8B%89%E6%A0%BC%E8%BF%90%E8%90%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议谢拉格运营"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E8%90%A8%E5%B0%94%E8%B4%A1%E6%94%BB%E7%95%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议萨尔贡攻略"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E5%9D%9A%E5%AE%88",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议维多利亚坚守"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E5%8F%98%E5%BD%A2%E8%80%85%E4%BC%8A%E6%AF%94%E5%88%A9%E4%BA%9A",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议变形者伊比利亚"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E7%AD%96%E7%95%A5%E6%94%BB%E7%95%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议策略攻略"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E5%8F%99%E6%8B%89%E5%8F%A4%E8%BF%90%E8%90%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议叙拉古运营"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BTWH6nEXK/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1D2Wp6kEni/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FnWn6XEA5/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FoWj6kEBs/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    }
+  ],
+  "research_intake": {
+    "candidate_count": 135,
+    "selected_new_sources": 54,
+    "reviewed_date": "2026-11-15",
+    "selection": "跨阵营、低本/速本、不同策略、混编、单人/联机、技能/经济/站位；排除旧盟约、预览与未核实片段；不是全站穷尽。"
+  }
 }

@@ -1,0 +1,1294 @@
+{
+  "research": {
+    "candidate_count": 135,
+    "selected_new_sources": 54,
+    "reviewed_date": "2026-11-15",
+    "selection": "跨阵营、低本/速本、不同策略、混编、单人/联机、技能/经济/站位；排除旧盟约、预览与未核实片段；不是全站穷尽。"
+  },
+  "web_pages_used": [
+    {
+      "url": "https://www.bilibili.com/video/BV1BPWJ6yE3P/",
+      "kind": "已使用攻略",
+      "source_id": "S01"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1npWp6FEL7/",
+      "kind": "已使用攻略",
+      "source_id": "S02"
+    },
+    {
+      "url": "https://www.bilibili.com/opus/1268367330752069664",
+      "kind": "已使用攻略",
+      "source_id": "S03"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1vRWG64E8c/",
+      "kind": "已使用攻略",
+      "source_id": "S04"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1SNWe6gEvP/",
+      "kind": "已使用攻略",
+      "source_id": "S05"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1NGWe6iEkt/",
+      "kind": "已使用攻略",
+      "source_id": "S06"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1CwWW6aEjh/",
+      "kind": "已使用攻略",
+      "source_id": "S07"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1VfWH61E6B/",
+      "kind": "已使用攻略",
+      "source_id": "S08"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV11iWW6uE3k/",
+      "kind": "已使用攻略",
+      "source_id": "S09"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1X3WK6aE7u/",
+      "kind": "已使用攻略",
+      "source_id": "S10"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1jMWM6VE5n/",
+      "kind": "已使用攻略",
+      "source_id": "S11"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1N4Wb6DE9G/",
+      "kind": "已使用攻略",
+      "source_id": "S12"
+    },
+    {
+      "url": "https://www.douyin.com/video/7706460660900678938",
+      "kind": "已使用攻略",
+      "source_id": "S13"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1UhWW6kE6t/",
+      "kind": "已使用攻略",
+      "source_id": "S14"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1Y8Wt6fEe5/",
+      "kind": "已使用攻略",
+      "source_id": "S15"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1kPWW6cEHC/",
+      "kind": "已使用攻略",
+      "source_id": "S16"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BvWP6MEwG/",
+      "kind": "已使用攻略",
+      "source_id": "S17"
+    },
+    {
+      "url": "https://www.douyin.com/video/7706470460594903531",
+      "kind": "已使用攻略",
+      "source_id": "S18"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FnWn6XEA5/",
+      "kind": "已使用攻略",
+      "source_id": "S19"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1vFWs6XEtt/",
+      "kind": "已使用攻略",
+      "source_id": "S20"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FoWj6kEBs/",
+      "kind": "已使用攻略",
+      "source_id": "S21"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FHWX6GEh2/",
+      "kind": "已使用攻略",
+      "source_id": "S22"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1WGWr6UEhb/",
+      "kind": "已使用攻略",
+      "source_id": "S23"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1cTWW6FEAS/",
+      "kind": "已使用攻略",
+      "source_id": "S24"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV11CWx6GELy/",
+      "kind": "已使用攻略",
+      "source_id": "S25"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FiWb61EHu/",
+      "kind": "已使用攻略",
+      "source_id": "S26"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV19ZWG6sEv9/",
+      "kind": "已使用攻略",
+      "source_id": "S27"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1eZWG6sEZy/",
+      "kind": "已使用攻略",
+      "source_id": "S28"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV17EWT62EXq/",
+      "kind": "已使用攻略",
+      "source_id": "S29"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1kzWg6fEid/",
+      "kind": "已使用攻略",
+      "source_id": "S30"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1yBW26KEgb/",
+      "kind": "已使用攻略",
+      "source_id": "S31"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1iGWW6REU8/",
+      "kind": "已使用攻略",
+      "source_id": "S32"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1rzWg6fEh5/",
+      "kind": "已使用攻略",
+      "source_id": "S33"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1qnWT6LEaC/",
+      "kind": "已使用攻略",
+      "source_id": "S34"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1k1WW6AEx7/",
+      "kind": "已使用攻略",
+      "source_id": "S35"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1hBWX6hEub/",
+      "kind": "已使用攻略",
+      "source_id": "S36"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1JEWT62Emb/",
+      "kind": "已使用攻略",
+      "source_id": "S37"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1ZBW46eEdW/",
+      "kind": "已使用攻略",
+      "source_id": "S38"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1m1W864ErS/",
+      "kind": "已使用攻略",
+      "source_id": "S39"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1xdWV61Efg/",
+      "kind": "已使用攻略",
+      "source_id": "S40"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV19rWi6WEAJ/",
+      "kind": "已使用攻略",
+      "source_id": "S41"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1DpWy6BEGE/",
+      "kind": "已使用攻略",
+      "source_id": "S42"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1gEW96PEyR/",
+      "kind": "已使用攻略",
+      "source_id": "S43"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1o8WR6CErt/",
+      "kind": "已使用攻略",
+      "source_id": "S44"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV15QW966EJ3/",
+      "kind": "已使用攻略",
+      "source_id": "S45"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BpW86GEhi/",
+      "kind": "已使用攻略",
+      "source_id": "S46"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BPWH6pEow/",
+      "kind": "已使用攻略",
+      "source_id": "S47"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV12ZWP6pE7m/",
+      "kind": "已使用攻略",
+      "source_id": "S48"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1HpWR6JE7g/",
+      "kind": "已使用攻略",
+      "source_id": "S49"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1SzWn6zEZq/",
+      "kind": "已使用攻略",
+      "source_id": "S50"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV12hWg6NE8i/",
+      "kind": "已使用攻略",
+      "source_id": "S51"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1suWu6hEgm/",
+      "kind": "已使用攻略",
+      "source_id": "S52"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV14eWW66EfP/",
+      "kind": "已使用攻略",
+      "source_id": "S53"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1L8W36REfm/",
+      "kind": "已使用攻略",
+      "source_id": "S54"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1iXWG6ZELS/",
+      "kind": "已使用攻略",
+      "source_id": "S55"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1pjWu6dEkJ/",
+      "kind": "已使用攻略",
+      "source_id": "S56"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1iiWi6oExo/",
+      "kind": "已使用攻略",
+      "source_id": "S57"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1w8Wb6UE2A/",
+      "kind": "已使用攻略",
+      "source_id": "S58"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1E5WN6rEpR/",
+      "kind": "已使用攻略",
+      "source_id": "S59"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1EWW36fEZs/",
+      "kind": "已使用攻略",
+      "source_id": "S60"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1aZWg62E8X/",
+      "kind": "已使用攻略",
+      "source_id": "S61"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV12hWy6AE7f/",
+      "kind": "已使用攻略",
+      "source_id": "S62"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1ovWi6tECG/",
+      "kind": "已使用攻略",
+      "source_id": "S63"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1rtWi6AEua/",
+      "kind": "已使用攻略",
+      "source_id": "S64"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV15nWq6oEau/",
+      "kind": "已使用攻略",
+      "source_id": "S65"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1suWu6hE9c/",
+      "kind": "已使用攻略",
+      "source_id": "S66"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1J9Wt6VEBZ/",
+      "kind": "已使用攻略",
+      "source_id": "S67"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1WvWH6wEbd/",
+      "kind": "已使用攻略",
+      "source_id": "S68"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1xvWd6FE81/",
+      "kind": "已使用攻略",
+      "source_id": "S69"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1rwWH69E7B/",
+      "kind": "已使用攻略",
+      "source_id": "S70"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1KAWD62EDS/",
+      "kind": "已使用攻略",
+      "source_id": "S71"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1u8W26kEoy/",
+      "kind": "已使用攻略",
+      "source_id": "S72"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1sdWe6KEKn/",
+      "kind": "已使用攻略",
+      "source_id": "S73"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1H6Wd6dECX/",
+      "kind": "已使用攻略",
+      "source_id": "S74"
+    },
+    {
+      "url": "https://prts.wiki/index.php?oldid=450300",
+      "kind": "交叉核对",
+      "reference_id": "DB01"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1Dwc5z3ECA/",
+      "kind": "交叉核对",
+      "reference_id": "N01"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E7%BB%AEInfinity%20%E4%BC%8A%E6%AF%94%E5%88%A9%E4%BA%9A",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "白绮Infinity 伊比利亚"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8F%98%E5%BD%A2%E8%80%85%E9%9B%86%E7%BE%A4%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%20%E6%95%99%E5%AD%A6",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "变形者集群维多利亚 教学"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E8%BD%BB%E6%9D%BE800%E5%B1%82%20%E5%8F%99%E6%8B%89%E5%8F%A4",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "轻松800层 叙拉古"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%20%E8%A7%84%E7%A8%8B%20%E5%A4%8D%E5%A5%8F%20%E4%B8%80%E6%9C%AC",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议 规程 复奏 一本"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E8%A7%84%E7%A8%8B%E6%95%99%E5%AD%A6",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议规程教学"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E5%A4%8D%E5%A5%8F%E4%B8%80%E6%9C%AC%E6%B5%81",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议复奏一本流"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E8%B0%A2%E6%8B%89%E6%A0%BC%E8%BF%90%E8%90%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议谢拉格运营"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E8%90%A8%E5%B0%94%E8%B4%A1%E6%94%BB%E7%95%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议萨尔贡攻略"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E5%9D%9A%E5%AE%88",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议维多利亚坚守"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E5%8F%98%E5%BD%A2%E8%80%85%E4%BC%8A%E6%AF%94%E5%88%A9%E4%BA%9A",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议变形者伊比利亚"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E7%AD%96%E7%95%A5%E6%94%BB%E7%95%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议策略攻略"
+    },
+    {
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%E5%8F%99%E6%8B%89%E5%8F%A4%E8%BF%90%E8%90%A5",
+      "kind": "发现用搜索页",
+      "usage": "用于候选发现，不作为攻略事实证据",
+      "query": "卫戍协议叙拉古运营"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1BTWH6nEXK/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1D2Wp6kEni/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FnWn6XEA5/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1FoWj6kEBs/",
+      "kind": "公开合集页元数据",
+      "usage": "用于作者合集候选发现"
+    }
+  ],
+  "candidates": [
+    {
+      "bvid": "BV1KNW86REMH",
+      "title": "【卫戍协议】逆天！终极模拟隐秘核心铳！莱塔尼亚根本打不动！",
+      "url": "https://www.bilibili.com/video/BV1KNW86REMH/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1U5wiziEAJ",
+      "title": "【卫戍协议】阵容推荐-奇迹全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1U5wiziEAJ/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1UZWb6bE46",
+      "title": "以防你不知道卫戍协议的投机骰子什么效果",
+      "url": "https://www.bilibili.com/video/BV1UZWb6bE46/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1rAw2z9Ekc",
+      "title": "《明日方舟》卫戍协议怎么给队友赠送干员",
+      "url": "https://www.bilibili.com/video/BV1rAw2z9Ekc/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1c6Wh6SEPt",
+      "title": "【卫戍协议】电表倒转顺手凑了十九个盟约",
+      "url": "https://www.bilibili.com/video/BV1c6Wh6SEPt/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1iiWi6oExo",
+      "title": "【卫戍协议：规程】区中神阵容-坚守全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1iiWi6oExo/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1VNWB6oECu",
+      "title": "【卫戍协议】雅拉速本抓佩佩，通关只叠副盟约，生存输出全都有，千层精灵萨聚奥",
+      "url": "https://www.bilibili.com/video/BV1VNWB6oECu/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1yBW26KEgb",
+      "title": "【卫戍协议：规程】必玩轮椅阵容-奥术伊比利亚全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1yBW26KEgb/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1PjWp6PEss",
+      "title": "【卫戍协议】维多利亚烛煌：孩子们等我拿到双火锤",
+      "url": "https://www.bilibili.com/video/BV1PjWp6PEss/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV13tWv65EL9",
+      "title": "【卫戍协议】可观测宇宙最爽的一把暴躁铁皮分队！",
+      "url": "https://www.bilibili.com/video/BV13tWv65EL9/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1GkW16yE1Y",
+      "title": "卫戍开挂这么嚣张吗？",
+      "url": "https://www.bilibili.com/video/BV1GkW16yE1Y/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1m1W864ErS",
+      "title": "【卫戍协议：规程】超级区阵容-维多利亚全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1m1W864ErS/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV113WR6oEoJ",
+      "title": "全网首发 疑似bug的卫戍三期最强轮椅？！只需100灵巧就能打穿BOSS",
+      "url": "https://www.bilibili.com/video/BV113WR6oEoJ/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1sdWe6KEKn",
+      "title": "【卫戍协议_规程】莱塔尼亚_专属篇 一图流",
+      "url": "https://www.bilibili.com/video/BV1sdWe6KEKn/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1nRxQ6mEdB",
+      "title": "龙哥哥新版卫戍理解  真倒转其实没死！ 唯一途径就是叠奇迹【龙哥哥切片】",
+      "url": "https://www.bilibili.com/video/BV1nRxQ6mEdB/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV14eWW66EfP",
+      "title": "[卫戍协议:规程] 轮椅级别的分队!前期爽碰对子叠精准奥数爽到爆炸!",
+      "url": "https://www.bilibili.com/video/BV14eWW66EfP/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1L8W36REfm",
+      "title": "【卫戍协议：规程】必玩阵容-奥术全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1L8W36REfm/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1G6JX6sEbM",
+      "title": "卫戍协议：酒馆战棋模组",
+      "url": "https://www.bilibili.com/video/BV1G6JX6sEbM/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ViWR66EWt",
+      "title": "4图轮椅攻略：从小白成为卫戍高手",
+      "url": "https://www.bilibili.com/video/BV1ViWR66EWt/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1kzWg6fEid",
+      "title": "【卫戍协议：规程】通关必学阵容-奇迹伊比利亚",
+      "url": "https://www.bilibili.com/video/BV1kzWg6fEid/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV15nWq6oEau",
+      "title": "我流向卫戍协议小盟约叠层推荐",
+      "url": "https://www.bilibili.com/video/BV15nWq6oEau/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1anWH6rEiN",
+      "title": "卫戍协议：规程_叙拉古 不屈 坚守 突袭（独立模拟丨规程等级9）",
+      "url": "https://www.bilibili.com/video/BV1anWH6rEiN/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV11cg36qEfA",
+      "title": "一些卫戍协议里战斗中的小技巧",
+      "url": "https://www.bilibili.com/video/BV11cg36qEfA/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1suWu6hE9c",
+      "title": "卫戍协议所有地图全站位",
+      "url": "https://www.bilibili.com/video/BV1suWu6hE9c/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1iXWG6ZELS",
+      "title": "【卫戍协议：规程】灵巧阵容攻略！轻松上手不烧心",
+      "url": "https://www.bilibili.com/video/BV1iXWG6ZELS/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1qnWT6LEaC",
+      "title": "【卫戍协议：规程】神中神阵容-精准全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1qnWT6LEaC/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV14xWb6HEKa",
+      "title": "700层萨尔贡真言",
+      "url": "https://www.bilibili.com/video/BV14xWb6HEKa/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1dsWX6uEQy",
+      "title": "【卫戍协议：规程】还在为镀层发愁吗？通关极速模拟，或许并不需要十分钟？",
+      "url": "https://www.bilibili.com/video/BV1dsWX6uEQy/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV11QWn6hEmB",
+      "title": "连打五把卫戍感觉什么都能叠迅捷【明日方舟】",
+      "url": "https://www.bilibili.com/video/BV11QWn6hEmB/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1wze66BE4f",
+      "title": "【明日方舟/卫戍协议】你42奶奶叠满50层突袭只要3秒钟",
+      "url": "https://www.bilibili.com/video/BV1wze66BE4f/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV12ZWP6pE7m",
+      "title": "【卫戍协议:规程】乌萨斯 独立模拟N20 常规玩法 实战运营思路，简单好学！",
+      "url": "https://www.bilibili.com/video/BV12ZWP6pE7m/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1k1WW6AEx7",
+      "title": "卫戍协议·规程】可胡可稳的伊比利亚思路分享！",
+      "url": "https://www.bilibili.com/video/BV1k1WW6AEx7/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1X3WK6aE7u",
+      "title": "【卫戍协议∶规程】乌萨斯正统玩法—森蚺自动刷砾机！公式化运营一图流教学＋原理解析！",
+      "url": "https://www.bilibili.com/video/BV1X3WK6aE7u/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1uqWT6eEMc",
+      "title": "卫戍协议镀层刻章逃课教学",
+      "url": "https://www.bilibili.com/video/BV1uqWT6eEMc/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1n2WW6aEu2",
+      "title": "卫戍超级变态错题本之空弦背身单打假想敌鳍",
+      "url": "https://www.bilibili.com/video/BV1n2WW6aEu2/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV11iWW6uE3k",
+      "title": "【卫戍协议:规程】顶级轮椅 乌萨斯 运营思路，真正的版本答案！",
+      "url": "https://www.bilibili.com/video/BV11iWW6uE3k/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1rwWH69E7B",
+      "title": "【卫戍协议∶规程】全干员技能更换推荐（一图流）",
+      "url": "https://www.bilibili.com/video/BV1rwWH69E7B/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1WvWH6wEbd",
+      "title": "小刻也能看懂的卫戍协议最新攻略(乌萨斯篇)",
+      "url": "https://www.bilibili.com/video/BV1WvWH6wEbd/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1o4Wn6mEtp",
+      "title": "大变-莱塔尼亚-玩法介绍",
+      "url": "https://www.bilibili.com/video/BV1o4Wn6mEtp/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ZsWX6uERh",
+      "title": "鹰角神了，卫戍模组偷摸乱装",
+      "url": "https://www.bilibili.com/video/BV1ZsWX6uERh/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1okHN6vEqn",
+      "title": "以防你不知道卫戍协议要准备抢你钱了",
+      "url": "https://www.bilibili.com/video/BV1okHN6vEqn/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1mrWD6DEoG",
+      "title": "卫戍协议全策略盟约盘点，@你卫戍抢牌抢策略的队友来看！",
+      "url": "https://www.bilibili.com/video/BV1mrWD6DEoG/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1WuUcYiEjw",
+      "title": "【卫戍协议】核心协议速通流，简单好抄，目光再次呆滞",
+      "url": "https://www.bilibili.com/video/BV1WuUcYiEjw/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1DEWM6vE2P",
+      "title": "卫戍协议盟约从夯到拉排序以及环境解析与一些玩法推荐",
+      "url": "https://www.bilibili.com/video/BV1DEWM6vE2P/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1RqWp6UEkv",
+      "title": "999层超强新盟约莱塔尼亚，终极难度隐藏BOSS表现如何",
+      "url": "https://www.bilibili.com/video/BV1RqWp6UEkv/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1dXS3BJEBf",
+      "title": "【卫戍】教你轻松凑出325奖杯",
+      "url": "https://www.bilibili.com/video/BV1dXS3BJEBf/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ShWU6UE45",
+      "title": "【卫戍协议】莱塔尼亚罗哥秒杀BOSS的来",
+      "url": "https://www.bilibili.com/video/BV1ShWU6UE45/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1t8WH6vE3b",
+      "title": "卫戍协议新增各种称号甚至是特殊称号，想刷六维图和称号的玩家有得操作了",
+      "url": "https://www.bilibili.com/video/BV1t8WH6vE3b/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1NXWu6wEBK",
+      "title": "【明日方舟】基于Web的卫戍协议联机终端【组队/交流】",
+      "url": "https://www.bilibili.com/video/BV1NXWu6wEBK/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1UtoeBnEjx",
+      "title": "⚡卫戍牢九门⚡看完不笑的说明你都打过了",
+      "url": "https://www.bilibili.com/video/BV1UtoeBnEjx/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1VhWT6BEhD",
+      "title": "卫戍轮椅迅捷乌萨斯！",
+      "url": "https://www.bilibili.com/video/BV1VhWT6BEhD/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1SzWn6zEZq",
+      "title": "卫戍协议新增轮椅：聚合莱塔尼亚",
+      "url": "https://www.bilibili.com/video/BV1SzWn6zEZq/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1mhWy6AE2E",
+      "title": "论卫戍协议森蚺队的数值超标程度",
+      "url": "https://www.bilibili.com/video/BV1mhWy6AE2E/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1snWL67Ej7",
+      "title": "卫戍协议现印象大赏",
+      "url": "https://www.bilibili.com/video/BV1snWL67Ej7/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1DBWX68Eyk",
+      "title": "世界上最舒服的人 大丑生电 全自动i砾机【卫戍协议】",
+      "url": "https://www.bilibili.com/video/BV1DBWX68Eyk/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1oxC2BPEwB",
+      "title": "【卫戍协议】以防你不知道卫戍协议100奖杯的至尊图标",
+      "url": "https://www.bilibili.com/video/BV1oxC2BPEwB/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1m4XzBQEN7",
+      "title": "【血狼切片】卫戍第一c圣聆初雪 就是有限伤 没有的话 祥子都摸不到她的脚后跟",
+      "url": "https://www.bilibili.com/video/BV1m4XzBQEN7/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1E4Wn6UELh",
+      "title": "卫戍：卡西米尔+突袭+不屈，万攻玛恩纳无漏隐藏！",
+      "url": "https://www.bilibili.com/video/BV1E4Wn6UELh/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1HGWT6DEsz",
+      "title": "明日方舟卫戍协议绝地模拟萨尔贡还是挺强的，可能是发牌喂饭了。",
+      "url": "https://www.bilibili.com/video/BV1HGWT6DEsz/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ySsf6gEMB",
+      "title": "卫戍协议陪玩店正式开业了！！！",
+      "url": "https://www.bilibili.com/video/BV1ySsf6gEMB/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1k1C9BYEqN",
+      "title": "[凛御银灰]破防了，卫戍协议直接泼了一盆冷水",
+      "url": "https://www.bilibili.com/video/BV1k1C9BYEqN/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1BHAPzvESp",
+      "title": "【卫戍协议】谢拉格不是区！多种谢拉格拼多多运营思路讲解",
+      "url": "https://www.bilibili.com/video/BV1BHAPzvESp/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV14aWd6wENd",
+      "title": "卫戍协议玩家be like：",
+      "url": "https://www.bilibili.com/video/BV14aWd6wENd/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1uKUKBWE12",
+      "title": "【卫戍协议】谢拉格拼多多绝境模拟打法教学，教你如何0高本牌稳定过度",
+      "url": "https://www.bilibili.com/video/BV1uKUKBWE12/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1HhW46gEUP",
+      "title": "打boss…不要开…六谢拉格……",
+      "url": "https://www.bilibili.com/video/BV1HhW46gEUP/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1wJWn6WEJk",
+      "title": "新版本卫戍协议如何叠远见投资人【切片】",
+      "url": "https://www.bilibili.com/video/BV1wJWn6WEJk/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1CNWx6MEXK",
+      "title": "森空岛查询卫戍协议战绩",
+      "url": "https://www.bilibili.com/video/BV1CNWx6MEXK/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV13zUsBCEqP",
+      "title": "【卫戍协议】超高输出谢拉格，4分钟教会你！",
+      "url": "https://www.bilibili.com/video/BV13zUsBCEqP/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1eAWS6oEYF",
+      "title": "卫戍协议最新科研成果",
+      "url": "https://www.bilibili.com/video/BV1eAWS6oEYF/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1g5XZBCEJU",
+      "title": "铃兰分队的正确打开方式，把把爽叠几百层谢拉格",
+      "url": "https://www.bilibili.com/video/BV1g5XZBCEJU/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1MDW16uEHm",
+      "title": "【卫戍协议】塔露拉谢拉格不融冰 全屏燃烧持续控制🧊冻怪",
+      "url": "https://www.bilibili.com/video/BV1MDW16uEHm/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV15QW966EJ3",
+      "title": "【卫戍协议∶规程】谢拉格一图流！上限不输大成罗哥",
+      "url": "https://www.bilibili.com/video/BV15QW966EJ3/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1M8yGB4ENq",
+      "title": "【卫戍协议】谢拉格队教程，队友保姆，究级兜底（绮良队，谢拉格+灵巧+奇迹）",
+      "url": "https://www.bilibili.com/video/BV1M8yGB4ENq/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1caCeBrELU",
+      "title": "卫戍协议谢拉格无限叠层，一回合三百层，原理非常简单！！！",
+      "url": "https://www.bilibili.com/video/BV1caCeBrELU/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1N5Wo6YEi8",
+      "title": "设计师一定是莱塔尼亚黑！Zc被车尔尼策略强度气晕，5费还敢发地灵：设计师我真得攻击你了！【Zc|卫戍协议】",
+      "url": "https://www.bilibili.com/video/BV1N5Wo6YEi8/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV11CWx6GELy",
+      "title": "【卫戍协议：规程】神中神阵容-萨尔贡全攻略教程（太好吃了）",
+      "url": "https://www.bilibili.com/video/BV11CWx6GELy/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1rwWH69EGb",
+      "title": "灵巧萨尔贡好安逸好舒服啊！神仙来了也不带换的啊！",
+      "url": "https://www.bilibili.com/video/BV1rwWH69EGb/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV19ZWG6sEv9",
+      "title": "【卫戍协议：规程】迅捷阵容攻略！二本找人！四本快速通关",
+      "url": "https://www.bilibili.com/video/BV19ZWG6sEv9/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1C7XMBtEY3",
+      "title": "终极模拟无限神罚——精迅萨尔贡",
+      "url": "https://www.bilibili.com/video/BV1C7XMBtEY3/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1gEW96PEyR",
+      "title": "【卫戍协议】还不会摇轮椅？不吃ban位的小阵营大丑来了！",
+      "url": "https://www.bilibili.com/video/BV1gEW96PEyR/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1PHW46jE1p",
+      "title": "玩新卫戍最大的感受就是穷",
+      "url": "https://www.bilibili.com/video/BV1PHW46jE1p/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1BpW86GEhi",
+      "title": "【卫戍协议】萨尔贡思路分享（附省流一图）",
+      "url": "https://www.bilibili.com/video/BV1BpW86GEhi/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1oxDNBqEQV",
+      "title": "娜仁图亚才是萨尔贡的老大！",
+      "url": "https://www.bilibili.com/video/BV1oxDNBqEQV/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1WHWe68EMH",
+      "title": "【卫戍协议】坚守聚合伊比利亚道中真强啊，什么叫我还要打boss？",
+      "url": "https://www.bilibili.com/video/BV1WHWe68EMH/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1BPWH6pEow",
+      "title": "萨尔贡神了，卫戍协议轮椅流派，精准灵巧随便叠萨尔贡不是区",
+      "url": "https://www.bilibili.com/video/BV1BPWH6pEow/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1c4Wo6sEzf",
+      "title": "精准奥数坚守萨boss战  单逻30输出 萨尔贡区了 逻各斯神了",
+      "url": "https://www.bilibili.com/video/BV1c4Wo6sEzf/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV12hWg6NE8i",
+      "title": "连续兜底13回合还拿了50%播报？！卫戍协议最爽最轮椅阵容之一【精奥聚合莱塔尼亚】",
+      "url": "https://www.bilibili.com/video/BV12hWg6NE8i/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1HpWR6JE7g",
+      "title": "【卫戍协议∶规程】卡西米尔公式化运营一图流 道中结局全程强 突袭50直接启动",
+      "url": "https://www.bilibili.com/video/BV1HpWR6JE7g/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1w8Wb6UE2A",
+      "title": "【卫戍协议：规程】超强阵容-远见马西米尔全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1w8Wb6UE2A/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1vxWt6aEme",
+      "title": "萌新向卫戍阵营推荐，干员借位以及技能配置攻略",
+      "url": "https://www.bilibili.com/video/BV1vxWt6aEme/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1u8W26kEoy",
+      "title": "【卫戍协议】干员技能及模组选择（萨尔贡）",
+      "url": "https://www.bilibili.com/video/BV1u8W26kEoy/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV12zwjzmEqb",
+      "title": "萨尔贡王朝！哪怕穷局依旧暴力输出！一个视频带你了解萨尔贡玩法，实践攻略！",
+      "url": "https://www.bilibili.com/video/BV12zwjzmEqb/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1o8WR6CErt",
+      "title": "最高难度卫戍协议最轮椅，最不吃运气的流派—不屈灵巧大丑，森蚺策略攻略教学",
+      "url": "https://www.bilibili.com/video/BV1o8WR6CErt/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1qBxE6JEee",
+      "title": "新版维多利亚还能和倒转抢播报吗？—— 卫戍新赛季干员与改动前瞻",
+      "url": "https://www.bilibili.com/video/BV1qBxE6JEee/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV12GW36TESE",
+      "title": "卫戍协议设计师你tm玩过维多利亚吗？（1补",
+      "url": "https://www.bilibili.com/video/BV12GW36TESE/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1LNQQBaEVd",
+      "title": "维多利亚之神降临卫戍协议，他的伤害占比是80%",
+      "url": "https://www.bilibili.com/video/BV1LNQQBaEVd/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1z3w2zEEGD",
+      "title": "【卫戍协议】必玩阵容-维多利亚全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1z3w2zEEGD/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1XKwmzrEiT",
+      "title": "【卫戍协议】必玩阵容-坚守全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1XKwmzrEiT/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1PvWy6hEdZ",
+      "title": "【明日方舟】卫戍协议战绩查询上线！扫码回看你的阵容与策略",
+      "url": "https://www.bilibili.com/video/BV1PvWy6hEdZ/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1J9Wt6VEBZ",
+      "title": "新版卫戍协议转职一览",
+      "url": "https://www.bilibili.com/video/BV1J9Wt6VEBZ/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1r8wizxEcL",
+      "title": "卫戍协议干员特质一览",
+      "url": "https://www.bilibili.com/video/BV1r8wizxEcL/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1WcWG6eE32",
+      "title": "【逗比寒/趣事】寒哥玩伊比利亚自带魔丸？魔王形态！（寒哥的魔王形态我很喜欢）",
+      "url": "https://www.bilibili.com/video/BV1WcWG6eE32/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1tYWW63EkM",
+      "title": "【卫戍协议：规程】难道伊比利亚真是区？",
+      "url": "https://www.bilibili.com/video/BV1tYWW63EkM/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1GbUCBAEuU",
+      "title": "团灭？刮痧？带你快人一步看懂卫戍隐秘核心boss机制&amp;数值",
+      "url": "https://www.bilibili.com/video/BV1GbUCBAEuU/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1H6Wd6dECX",
+      "title": "罗素坚守聚合伊比利亚的讨论",
+      "url": "https://www.bilibili.com/video/BV1H6Wd6dECX/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1TJw7znERo",
+      "title": "卫戍协议转职一览",
+      "url": "https://www.bilibili.com/video/BV1TJw7znERo/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1YRWg6UEhY",
+      "title": "我说引星旅骨是伊比利亚超大杯有没有懂的",
+      "url": "https://www.bilibili.com/video/BV1YRWg6UEhY/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1mWpe6PEZ2",
+      "title": "memes但是伊比利亚利用压电瓷砖将脚步转化为电能。这些瓷砖捕捉来自你脚步的动能。当你行走时，你的重量和动作会对瓷砖产生压力。瓷砖会轻微弯曲，从而产生机械应力。",
+      "url": "https://www.bilibili.com/video/BV1mWpe6PEZ2/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ksWi6NEE5",
+      "title": "不是？什么叫卫戍迎来限时合法挂车？！",
+      "url": "https://www.bilibili.com/video/BV1ksWi6NEE5/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1yHwfzFEpP",
+      "title": "以防还有人不知道卫戍协议干员强度有养成加成",
+      "url": "https://www.bilibili.com/video/BV1yHwfzFEpP/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1tpWb6WE6T",
+      "title": "伊比利亚小伙能量巨大",
+      "url": "https://www.bilibili.com/video/BV1tpWb6WE6T/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1svWH6wEkS",
+      "title": "原来棘刺真是伊比利亚大C😨",
+      "url": "https://www.bilibili.com/video/BV1svWH6wEkS/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1xFWq63EV4",
+      "title": "一句话锐评卫戍协议热门策略",
+      "url": "https://www.bilibili.com/video/BV1xFWq63EV4/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1LiUQB8EZM",
+      "title": "《明日方舟》卫戍协议策略--夕",
+      "url": "https://www.bilibili.com/video/BV1LiUQB8EZM/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV14BAnzZEEQ",
+      "title": "我去！区！【卫戍协议】必玩阵容-投资人全攻略教程",
+      "url": "https://www.bilibili.com/video/BV14BAnzZEEQ/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1j4C5BVEWc",
+      "title": "关于卫戍协议，联机模式四人是否共享一个牌库？",
+      "url": "https://www.bilibili.com/video/BV1j4C5BVEWc/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ZVC9BsEoN",
+      "title": "最简单卫戍协议联机攻略，看完你也能带飞队友",
+      "url": "https://www.bilibili.com/video/BV1ZVC9BsEoN/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1qxQRByEhr",
+      "title": "不缺钱了【卫戍协议】必玩阵容-奇迹叙拉古全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1qxQRByEhr/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1LVWy61EAf",
+      "title": "【卫戍协议】20秒学会森空岛查卫戍协议战绩",
+      "url": "https://www.bilibili.com/video/BV1LVWy61EAf/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1xvWd6FE81",
+      "title": "叙拉古不是区！谁说三期玩不了叙拉古！",
+      "url": "https://www.bilibili.com/video/BV1xvWd6FE81/",
+      "status": "included"
+    },
+    {
+      "bvid": "BV1UgQBBDEaM",
+      "title": "不倒转赌异拉的叙拉古也能猛c？二本叙拉古攻略【卫戍协议】",
+      "url": "https://www.bilibili.com/video/BV1UgQBBDEaM/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV186Wa6BE2y",
+      "title": "倒转区不准倒转！组排一天没遇到倒转局面，四人场外疯狂重roll20分钟满足龙哥心愿！【Zc|卫戍协议】",
+      "url": "https://www.bilibili.com/video/BV186Wa6BE2y/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1anaT69Erf",
+      "title": "给号角转叙拉古不笑的你是大拇指",
+      "url": "https://www.bilibili.com/video/BV1anaT69Erf/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1kMwtzBEqz",
+      "title": "玩叙拉古之前没觉得这么好笑过",
+      "url": "https://www.bilibili.com/video/BV1kMwtzBEqz/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV19woxBKEDy",
+      "title": "我每期卫戍不玩一个盟约 从来没被叙拉古抢过播报 但打BOSS被叙拉古害死过【龙哥切片】",
+      "url": "https://www.bilibili.com/video/BV19woxBKEDy/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ZkDfBxErM",
+      "title": "【卫戍协议】 三本叙：七回合六叙，二本叙做得到吗？",
+      "url": "https://www.bilibili.com/video/BV1ZkDfBxErM/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1EsDtBqEJw",
+      "title": "叙拉古老是把猫送走怎么办？试试这个",
+      "url": "https://www.bilibili.com/video/BV1EsDtBqEJw/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1m6wNz7EB6",
+      "title": "当你拥有一只500层叙拉古的祥子……",
+      "url": "https://www.bilibili.com/video/BV1m6wNz7EB6/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV18X9TBBEWg",
+      "title": "卫戍协议惊天bug！叙拉古转维什戴尔局内秒变伺夜！！",
+      "url": "https://www.bilibili.com/video/BV18X9TBBEWg/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1S5dkBuEuD",
+      "title": "两个异拉怎么叠叙拉古",
+      "url": "https://www.bilibili.com/video/BV1S5dkBuEuD/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1EUwgz7E36",
+      "title": "【卫戍协议】必玩阵容-叙拉古全攻略教程",
+      "url": "https://www.bilibili.com/video/BV1EUwgz7E36/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV12QWo6TE9G",
+      "title": "小合约才是王道  你的阵营叠层根本没技巧  教你如何解锁奥数爽叠技巧 #明日方舟卫戍协议",
+      "url": "https://www.bilibili.com/video/BV12QWo6TE9G/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1ADWT6RETh",
+      "title": "复奏莱塔尼亚已经毁了卫戍协议，具体表现在出雅雅直接解锁boss，只要精准奥术即可，莱塔少人无所谓只需三人。有好的精准大c可以小鼓转职。注意抓取更多的小羊拿播报呀",
+      "url": "https://www.bilibili.com/video/BV1ADWT6RETh/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1TtWg6MEQU",
+      "title": "从夯到拉锐评卫戍协议阵营!看看谁才是最强盟约，谁又是最区盟约?",
+      "url": "https://www.bilibili.com/video/BV1TtWg6MEQU/",
+      "status": "discovered_not_used_as_evidence"
+    },
+    {
+      "bvid": "BV1suWu6hEgm",
+      "title": "来试试卫戍协议最轮椅的复奏策略吧",
+      "url": "https://www.bilibili.com/video/BV1suWu6hEgm/",
+      "status": "included"
+    }
+  ]
+}
